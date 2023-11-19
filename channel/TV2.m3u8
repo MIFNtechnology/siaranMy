@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="(102)" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
