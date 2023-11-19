@@ -1,0 +1,82 @@
+{
+	"default": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"roku": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"amazontv": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"androidtv": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"appletv": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"android": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"ios": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	},
+	"web": {
+	"location": "https://mytv-api.revlet.net",
+	"api": "https://mytv-api.revlet.net",
+	"search": "https://mytv-api.revlet.net",
+	"pgURL": "https://mytv-api.revlet.net",
+	"guideURL": "https://mytv-api.revlet.net",
+	"tenantCode": "mytv",
+	"product": "mytv",
+	"isSupported": true
+	}
+	}
