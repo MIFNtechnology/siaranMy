@@ -1,5 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="121" tvg-name="BERNAMA"
-tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png"
-https://live.mana2.my/Bernama/index.m3u8|referrer=https://live.mana2.my/Bernama/tracks-v3a1/mono.m3u8?token=1700385001-754c1fd01a3440028c56554e2c6f1381-0-d9245cfe816b16878c93e826e717cb9c&auth_key=1700385001-754c1fd01a3440028c56554e2c6f1381-0-3913f00b1f0a7cab5d9a87c1da5a2490
+#EXTINF:-1 tvg-id="121" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
+Origin=https://www.mana2.my
+Accept=*/*
+Referrer=https://www.mana2.my/channel/live/Bernama
+https://live.mana2.my/Bernama/index.m3u8?auth_key=1700391827-d467c16c7aa546d9a48497380e97acec-0-3979c778dec761dad0d80f2fe567be50&token=1700391827-d467c16c7aa546d9a48497380e97acec-0-3979c778dec761dad0d80f2fe567be50
