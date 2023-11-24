@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="123" tvg-name="BeritaRTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BeritaRTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
