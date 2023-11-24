@@ -37,7 +37,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="121" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
-https://live.mana2.my/Bernama/index.m3u8?auth_key=1700435117-634a66b1d8e148ab93b7ee2883996ee5-0-5051dfc169c0bf22641583475050a9fa&token=1700435117-634a66b1d8e148ab93b7ee2883996ee5-0-5051dfc169c0bf22641583475050a9fa|referrer=https://www.mana2.my/channel/live/Bernama
+https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/bernama/Index.m3u8?token=GHSAT0AAAAAACKPGT7Z2CYXYH4P55YC5BVGZLA7DZA|referrer=https://www.mana2.my/channel/live/Bernama
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122" tvg-name="TVS" tvg-https://live.mana2.my/TvS/index.m3u8?auth_key=1700429277-01a18fec11c94068b2d4c71204e7cf3d-0-3a052a95433667b52397d52e6349d15d&token=1700429277-01a18fec11c94068b2d4c71204e7cf3d-0-3a052a95433667b52397d52e6349d15d|referrer=https://www.mana2.my/channel/live/tvs
 
