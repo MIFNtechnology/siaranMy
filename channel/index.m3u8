@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTINF:-1 tvg-group="siaranMy"
+channel/*index.m3u8
+
