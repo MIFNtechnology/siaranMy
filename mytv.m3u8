@@ -45,4 +45,4 @@ https://live.mana2.my/Bernama/index.m3u8?auth_key=1700435117-634a66b1d8e148ab93b
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1700429678-081ec037861d440fbbd56830035559e1-0-c64e28adf7f62c0db3388be6a5b483fa&token=1700429678-081ec037861d440fbbd56830035559e1-0-c64e28adf7f62c0db3388be6a5b483fa|referrer=https://www.mana2.my/channel/live/suke-tv
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1700429479-0737901994a74511898d6bfef0b0ca88-0-4aacaf5db1548f44c410dd5a983d011f&token=1700429479-0737901994a74511898d6bfef0b0ca88-0-4aacaf5db1548f44c410dd5a983d011f|referrer=https://www.mana2.my/channel/live/tv-alhijrah
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channel/tv-alhijrah_index.m3u8|referrer=https://www.mana2.my/channel/live/tv-alhijrah
