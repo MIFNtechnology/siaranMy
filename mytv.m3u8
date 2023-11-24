@@ -15,19 +15,19 @@ https://live.mana2.my/TvIkim/index.m3u8?auth_key=1700445293-c015ef553b9244c98aa8
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="113.astro" tvg-name="TV6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/eyqwgr.png",TV6
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="113" tvg-name="TV6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/eyqwgr.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv KPM" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png",DidikTv KPM
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="108" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0GHSAT0AAAAAACKPGT7Z7EUAPG2LDO573OH4ZLA577A
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="109" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="106.astro" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="106" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="123" tvg-name="BeritaRTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BeritaRTM
