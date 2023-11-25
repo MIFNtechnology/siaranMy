@@ -1,0 +1,35 @@
+name: Node.js CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test
+
+steps:
+- uses: actions/checkout@v4
+- name: Use Node.js
+  uses: actions/setup-node@v3
+  with:
+    always-auth: true
+    node-version: '20.x'
+    registry-url: https://registry.npmjs.org
+    scope: '@octocat'
+- name: Install dependencies
+  run: npm ci
+  env:
+    NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+# //registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}
+# @octocat:registry=https://registry.npmjs.org/
+# always-auth=true
