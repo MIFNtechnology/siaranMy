@@ -9,9 +9,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="103" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title=",TV3
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_270p/index.m3u8|Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="104" tvg-name="TvIkim" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/yrtdnl.png",TvIkim
-https://live.mana2.my/TvIkim/index.m3u8?auth_key=1700445293-c015ef553b9244c98aa8aab805dd32a9-0-ef2728b780d2565e08074a809831ad9c&token=1700445293-c015ef553b9244c98aa8aab805dd32a9-0-ef2728b780d2565e08074a809831ad9c|referrer=https://www.mana2.my/channel/live/tv-ikim
-
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
@@ -35,16 +32,4 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/sukan-rtm-banner-1685021195853.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="121" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
-https://live.mana2.my/Bernama/index.m3u8?auth_key=1700871695-349f452a7a964042b3078a1ce2cbc746-0-194733f559dde88aa57dfb0ea786ab7d&token=1700871695-349f452a7a964042b3078a1ce2cbc746-0-194733f559dde88aa57dfb0ea786ab7d|referrer=https://www.mana2.my/channel/live/Bernama/Index.m3u8?token=GHSAT0AAAAAACKPGT7Z2CYXYH4P55YC5BVGZLA7DZA
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-name="TVS" tvg-https://live.mana2.my/TvS/index.m3u8?auth_key=1700429277-01a18fec11c94068b2d4c71204e7cf3d-0-3a052a95433667b52397d52e6349d15d&token=1700429277-01a18fec11c94068b2d4c71204e7cf3d-0-3a052a95433667b52397d52e6349d15d|referrer=https://www.mana2.my/channel/live/tvs
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="116" tvg-name="Suke TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1700429678-081ec037861d440fbbd56830035559e1-0-c64e28adf7f62c0db3388be6a5b483fa&token=1700429678-081ec037861d440fbbd56830035559e1-0-c64e28adf7f62c0db3388be6a5b483fa|referrer=https://www.mana2.my/channel/live/suke-tv
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1700921174-7cca581ecb3f48aa88f7e4a2a2f28ef6-0-4d1b8cd502707d87b372294e6250b1eb&token=1700921174-7cca581ecb3f48aa88f7e4a2a2f28ef6-0-4d1b8cd502707d87b372294e6250b1eb |referrer=https://www.mana2.my/channel/live/tv-alhijrah
-
 
