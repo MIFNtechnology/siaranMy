@@ -47,5 +47,4 @@ https://live.mana2.my/SukeTv/index.m3u8?auth_key=1700429678-081ec037861d440fbbd5
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
 https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1700921174-7cca581ecb3f48aa88f7e4a2a2f28ef6-0-4d1b8cd502707d87b372294e6250b1eb&token=1700921174-7cca581ecb3f48aa88f7e4a2a2f28ef6-0-4d1b8cd502707d87b372294e6250b1eb |referrer=https://www.mana2.my/channel/live/tv-alhijrah
 
-#EXTM3U:-1 tvg-group="siaranMy" tvg-id="TVS.ASTRO" tvg-name="tvs" tvg-logo="
-https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/Tvs/index.m3u8?token=GHSAT0AAAAAACKPGT7YGSFRYK3GV36TQEIQZLK6Z4A
+
