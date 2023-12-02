@@ -9,3 +9,5 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+
+# <api key> <eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJBcGlKd3QiLCJzdWIiOiI1NzEyN2FkMC0zNGQ0LTQ4ODktYTFlNi05MjQyYjc3MjIxOTEiLCJpc3MiOiJlanVuZHNAZ21haWwuY29tIiwiZXhwIjoxNzMyNTkyNTI0LCJpYXQiOjE3MDE0ODg1MjQsImp0aSI6Ijk0OGU4YjdmLWQwYjItNDdjYy04N2U5LTA0MDdjNDA0YTM2MSJ9.usWD4ZXntTohkbVnT3OYukeS41hygkJYFortyNyPLqM>
