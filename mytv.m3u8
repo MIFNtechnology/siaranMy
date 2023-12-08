@@ -45,3 +45,8 @@ https://live.mana2.my/Bernama/index.m3u8?auth_key=1702090681-93cf34498f134696a3e
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TvS" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
+
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="116.astro" tvg-number="116" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
+#EXTVLCOPT:https-referrer=https://www.mana2.my/channel/live/suke-tv
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702094065-69c017facf7f48c68e397b9e19c0ac2c-0-61b4abaec15ac52d66b548c9a72f5e34
