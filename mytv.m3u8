@@ -41,7 +41,7 @@ https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1702015505-01b32c3f384648f0
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Bernama.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
 #EXTVLCOPT:user-agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
 #EXTVLCOPT:https-referrer=https://www.mana2.my/channel/live/Bernama
-https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/bernama/Index.m3u8?token=GHSAT0AAAAAACKPGT7YDDSM5DETZ6XK4OBGZLTSVGA
+https://github.com/MIFNtechnology/.github-private/blob/main/channel/bernama/Index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TvS" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
