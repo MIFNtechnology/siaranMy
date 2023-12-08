@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml",tvg-url="https://raw.githubusercontent.com/MIFNtechnology/epg2/main/rtmklik.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml","https://mifntechnology.github.io/epg2/rtmklik.xml"
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="101" tvg-name="TV1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
