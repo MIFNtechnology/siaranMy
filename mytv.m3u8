@@ -39,8 +39,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1702090460-5a0807f68a4047dbae05373e2f035b39-0-4eef505d4c4455d3da66c9936abf6ef7
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Bernama.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
-#EXTVLCOPT:user-agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w520879673_b878000_sleng.m3u8
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TvS" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
