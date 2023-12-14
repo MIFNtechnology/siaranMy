@@ -38,7 +38,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://www.mana2.my/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Bernama.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
-https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/bernama/index.html?token=GHSAT0AAAAAACKPGT7YR33NSZUQIFEZQAICZL3GZBQ
+https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/bernama/index.html
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TvS" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
