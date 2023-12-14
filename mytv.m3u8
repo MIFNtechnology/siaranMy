@@ -52,3 +52,6 @@ https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702094065-69c017facf7f48c68e39
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
 #EXTVLCOPT:https-referrer=https://www.tvikim.my/live.php
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
