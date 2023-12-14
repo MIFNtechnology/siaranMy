@@ -35,7 +35,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TvAlhijrah.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+https://www.mana2.my/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Bernama.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
@@ -48,7 +48,7 @@ https://stream.smg.my/live/tvs.m3u8
 #EXTVLCOPT:https-referrer=https://www.mana2.my/channel/live/suke-tv
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702094065-69c017facf7f48c68e397b9e19c0ac2c-0-61b4abaec15ac52d66b548c9a72f5e34
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TvIkim.astro" tvg-number="117" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
 #EXTVLCOPT:https-referrer=https://www.tvikim.my/live.php
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
