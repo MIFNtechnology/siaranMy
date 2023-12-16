@@ -1,12 +1,12 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml","https://mifntechnology.github.io/epg2/rtmklik.xml"
+#EXTM3U tvg-url="https://mifntechnology.github.io/epg/astro_epg.xml","https://mifntechnology.github.io/epg2/rtmklik.xml"
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="101" tvg-name="TV1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png",TV1
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="102" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="103" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title=",TV3
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title=",TV3
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_270p/index.m3u8|Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
@@ -24,7 +24,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8|ref
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="DramaSangat" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="DRAMASANGAT" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BeritaRTM
@@ -33,24 +33,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/sukan-rtm-banner-1685021195853.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TvAlhijrah.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
 #EXTTINCAT:https-referrer=https://www.mana2.my/channel/live/tv-alhijrah
 https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1702761558-d29074574877420ab74c03efeac19e85-0-f546c527417205fe36090a0f48fdfd75&token=1702761558-d29074574877420ab74c03efeac19e85-0-f546c527417205fe36090a0f48fdfd75
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Bernama.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png", Bernama
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png", Bernama
 https://live.mana2.my/Bernama/index.m3u8?auth_key=1702765795-0e2619a46dbe428d8b251f60c1664e85-0-46f095bb5f40129ed0f76430b51b47b5&token=1702765795-0e2619a46dbe428d8b251f60c1664e85-0-46f095bb5f40129ed0f76430b51b47b5
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TvS" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy"  tvg-id="116.astro" tvg-number="116" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702766058-25b1067569fb4373abb55af9a48d7aa0-0-a50cc4b2738db12c6c6de80714342915&token=1702766058-25b1067569fb4373abb55af9a48d7aa0-0-a50cc4b2738db12c6c6de80714342915
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVIKIM.astro" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
 #EXTVLCOPT:https-referrer=https://www.tvikim.my/live.php
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
