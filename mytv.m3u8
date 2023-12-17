@@ -33,19 +33,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/sukan-rtm-banner-1685021195853.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
-#EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
-#EXTTINCAT:https-referrer=https://www.mana2.my/channel/live/tv-alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1702761558-d29074574877420ab74c03efeac19e85-0-f546c527417205fe36090a0f48fdfd75&token=1702761558-d29074574877420ab74c03efeac19e85-0-f546c527417205fe36090a0f48fdfd75
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="123" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png", Bernama
-https://live.mana2.my/Bernama/index.m3u8?auth_key=1702765795-0e2619a46dbe428d8b251f60c1664e85-0-46f095bb5f40129ed0f76430b51b47b5&token=1702765795-0e2619a46dbe428d8b251f60c1664e85-0-46f095bb5f40129ed0f76430b51b47b5
-
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
-
-#EXTINF:-1 tvg-group="siaranMy"  tvg-id="116.astro" tvg-number="116" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702766058-25b1067569fb4373abb55af9a48d7aa0-0-a50cc4b2738db12c6c6de80714342915&token=1702766058-25b1067569fb4373abb55af9a48d7aa0-0-a50cc4b2738db12c6c6de80714342915
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVIKIM.astro" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
