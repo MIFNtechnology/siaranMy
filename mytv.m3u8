@@ -34,7 +34,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png", Bernama
-https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/bernama/index%20%281%29.m3u8?token=GHSAT0AAAAAACL5W6QP4RT55GIEKXALWGHAZMFZIEQ
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703270298/ei/OoOFZZeYH_n3z7sP69ybqAw/ip/183.171.26.202/id/MWC3t08SYxY.13/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-30a7yney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1XLEjK7fAFdUECtAAsMgNLReJMRY4WnKfWsgw/vprv/1/playlist_type/DVR/initcwndbps/121250/mh/Qv/mm/44/mn/sn-30a7yney/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703250276/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOJHqWgkvrP4RCGZ6xlwFd2VuhwsFkXRL3wnL-GWDPPqAiEAgEVgAUal9LTYJl8mK_jG7jMZDVXj6Ww9p0R4vlslAPo%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhAKTguojW6TzS6qYxggwwD_wKJlBKwsqHTpSXQTWpxICDAiEAqSdFXr_9FnJahJNtRoz_pt9LI20fmg-GDdnaOi6IJFg%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
 https://stream.smg.my/live/tvs.m3u8
