@@ -16,7 +16,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv KPM" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png",DidikTv KPM
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0GHSAT0AAAAAACKPGT7Z7EUAPG2LDO573OH4ZLA577A
