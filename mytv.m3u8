@@ -47,8 +47,5 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema 
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
 https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1703690726-d8d3a0776e38476783b72795d4c95b69-0-1807d4b61cf229e8b3a9ef95cfa892bb
