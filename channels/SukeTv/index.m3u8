@@ -1,1 +1,16 @@
+<html>
+    <head>
+        <title HTTP Live Streaming SukeTv> </title>
+    </head>
+    <body>
+        <video src="https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702597780-0028b2f930124ad5969ab7f2fee7367d-0-37ce36395236e47c0ec707d21376af2a&token=1702597780-0028b2f930124ad5969ab7f2fee7367d-0-37ce36395236e47c0ec707d21376af2a"height="300" width="400">
+        </video>
+    </body>
+</html>
 
+
+#EXTM3U
+#EXTINF:-1 tvg-group="siaranMy"  tvg-id="116.astro" tvg-number="116" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702597780-0028b2f930124ad5969ab7f2fee7367d-0-37ce36395236e47c0ec707d21376af2a
+
+	
