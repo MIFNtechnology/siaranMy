@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="114.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d&amp;token=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1240000,BANDWIDTH=1550000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.4d001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d&auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-1d5e898061a20f235f17148f7411ffa4
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2500000,BANDWIDTH=3120000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.mana2.my/TvAlhijrah/tracks-v2a1/mono.m3u8?token=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d&auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-3991bb6c3b69fbfb79a914a07a021da8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3550000,BANDWIDTH=4430000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d&auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-72eb72c4f7b779c523618fef14c882dd
