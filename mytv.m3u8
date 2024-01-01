@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://mifntechnology.github.io/epg/astro_epg.xml","https://mifntechnology.github.io/epg2/rtmklik.xml"
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+https://mifntechnology.github.io/siaranMy/channels/Tv1/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
