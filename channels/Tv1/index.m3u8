@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1210000,BANDWIDTH=1510000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.4d001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b796000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/media-ubwciu4e9_b796000_slENG_239435.ts?id=1
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2420000,BANDWIDTH=3030000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/media-uaegjtqoh_b1096000_slENG_239438.ts?id=1
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3470000,BANDWIDTH=4330000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/media-uur3uvady_b2596000_slENG_239436.ts?id=1
