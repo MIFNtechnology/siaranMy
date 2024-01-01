@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1432591,AVERAGE-BANDWIDTH=965742,RESOLUTION=426x240,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2"
+ihttps://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2752604,AVERAGE-BANDWIDTH=1790760,RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2"
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5392635,AVERAGE-BANDWIDTH=3440795,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2"
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
