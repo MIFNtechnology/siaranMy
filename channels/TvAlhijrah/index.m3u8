@@ -1,1 +1,5 @@
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style></head><body><video controls="" autoplay="" name="media"><source src="https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d&amp;token=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-2b208e183bd174b7f28debe37dfb192d" type="application/vnd.apple.mpegurl"></video></body></html>
 
+#EXTM3U
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TvAlhijrah.astro" tvg-number="114" tvg-name="Tv Alhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png",Tv Alhijrah
+https://raw.githubusercontent.com/MIFNtechnology/.github-private/main/channel/tv-alhijrah/index.m3u8?token=GHSAT0AAAAAACMFIW7OJRZBCRSSQBZIAYPKZMSNGGA&auth_key=1704108147-f03f1b88dd0a45c5ae1ba4c700e7aa21-0-1d5e898061a20f235f17148f7411ffa4
