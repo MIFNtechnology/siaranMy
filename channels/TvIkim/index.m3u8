@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-id="tvikim", TV Ikim
+#EXTM3U
+#EXT-X-STREAM-INF:-1 tvg-id="tvikim", TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
