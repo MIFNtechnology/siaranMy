@@ -6,6 +6,15 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions" # See documentation for possible values
-    directory: "siaranMy/channels" # Location of package manifests
+    directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
+
+ # The git type supports username and password. If the account is a GitHub account, you can use a GitHub personal access token in place of the password
+ 
+registries:
+  github-octocat:
+    type: git
+    url: https://github.com
+    username: x-access-token
+    password: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
