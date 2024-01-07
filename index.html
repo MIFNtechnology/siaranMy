@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Web Sniffer</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+	<style id="settings"></style>
+</head>
+<body>
+
+	<div class="settings">
+
+		<span class="link glyphicon glyphicon-cog" title="Setting"></span>
+		<span class="pause glyphicon glyphicon-pause" title="Pause" data-title="Play"></span>
+
+		<div class="pull-right">
+			<span class="count-all glyphicon" title="Request All Count">0</span>
+			<span class="count glyphicon" title="Request Count">0</span>
+			<span class="trash glyphicon glyphicon-trash" title="Clear Log"></span>
+		</div>
+
+		<div class="container-fluid">
+
+			<div class="row">
+
+				<label class="control-label col-lg-2">
+					Display Request
+					<input class="form-control" type="text" name="limit" value="" autocomplete="off">
+				</label>
+
+				<label class="control-label col-lg-2 checkbox">
+					<input type="checkbox" name="autoscroll" value="1"> Autoscroll
+				</label>
+
+				<label class="control-label col-lg-3 checkbox">
+					<input type="checkbox" name="remove" value="1"> Remove Requests After Close Tab
+				</label>
+
+			</div>
+
+			<div class="row filter-rows"></div>
+		</div>
+
+
+	</div>
+
+	<div class="requests">
+		<div class="filter"></div>
+	</div>
+
+
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
