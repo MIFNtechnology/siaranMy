@@ -1,8 +1,8 @@
-#EXTM3U
+#EXTM3U 2024/01/08 17:23:14 GMT+08:00
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2539335,RESOLUTION=1920x1080,CODECS="avc1.42c02a,mp4a.40.2"
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=31409500
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=31535145
 #EXT-X-STREAM-INF:BANDWIDTH=700829,RESOLUTION=854x480,CODECS="avc1.42c01f,mp4a.40.2"
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?nimblesessionid=31409500
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?nimblesessionid=31535145
 #EXT-X-STREAM-INF:BANDWIDTH=524455,RESOLUTION=640x360,CODECS="avc1.42c01f,mp4a.40.2"
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=31409500
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=31535145
