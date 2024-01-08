@@ -37,7 +37,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
-https://stream.smg.my/live/tvs.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/playlist.m3u8
