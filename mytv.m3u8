@@ -7,7 +7,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title=",TV3
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+https://mifntechnology.github.io/siaranMy/chamnels/Tv3/index.m3u8|Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
@@ -25,7 +25,7 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8|referrer=https
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="DRAMASANGAT" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BeritaRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
