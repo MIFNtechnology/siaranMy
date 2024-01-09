@@ -1,4 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title=",TV3
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1432591,AVERAGE-BANDWIDTH=965742,RESOLUTION=426x270,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2"
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_270p/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2752604,AVERAGE-BANDWIDTH=1790760,RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2"
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_480p/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5392635,AVERAGE-BANDWIDTH=3440795,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2"
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
