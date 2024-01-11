@@ -1,4 +1,7 @@
 # MIFNtechnology IP MYTV PERCUMA
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f79b664bb6b94776ae40293e4ee21208)](https://app.codacy.com/gh/MIFNtechnology/siaranMy?utm_source=github.com&utm_medium=referral&utm_content=MIFNtechnology/siaranMy&utm_campaign=Badge_Grade)
+
 https://mifntechnology.github.io
 SYARIKAT KAMI MENAWARKAN PERKHIDMATAN PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK
 
