@@ -1,17 +1,12 @@
 # MIFNtechnology/siaranMy
-
-SALURAN IP MYTV MALAYSIA PERCUMA.
-televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
-
+SALURAN IP MYTV MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 ## SIARAN TV
 | SIARAN |    |     |     |  
 |--|--|--|--|
-| Tv1 | Tv9 | DidikTv | DramaSangat |
-| Tv2 | Tvs | BeritaRTM |  |
-| Tv3 | OkeyTv| SukanRTM |  |
-| Tv6 | SukeTv | Bernama |  |
-| 8tv | TvIkim | AstroAwani |   |
-
+| Tv1 | Tv6 | OkeyTv | BeritaRTM |
+| Tv2 | 8tv | TvIkim | SukanRTM |
+| Tv3 | Tv9 | Bernama | DramaSangat |
+| Tvs | DidikTv | AstroAwani |  |
 ## CARA GUNA
 1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
 2. TEKAN BUTANG SETTING (⏱️) , TEKAN PLAYLIST , TEKAN BUTANG (+) , NEW M3U PLAYLIST.
@@ -19,7 +14,6 @@ televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen mela
 4. SALIN DAN TAMPAL LINK DIBAWAH KE `LINK M3U/M3U8` IPTV PLAYER.
 5. `https://mifntwchnology.github.io/siaranMy/mytv.m3u8`
 6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
-
 ## LINK M3U8 
 LINK UNTUK `#EXTM3U`
 | SIARAN | LINK |
@@ -42,14 +36,11 @@ LINK UNTUK `#EXTM3U`
 | SukanRTM | `https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd` |
 | Bernama | `https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8` |
 | TvIkim | `https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8` |
-| SukeTv | `https://mifntechnology.github.io/siaranMy/channels/SukeTv/index.m3u8` |
 | Tvs | `https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8` |
 | AstroAwani | `https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8` |
-
 ## LINK EPG
 |   | LINK |
 |--|--|
-|--|
 | EPG | `https://mifntechnology.github.io/epg/astro_epg.xml` |
 | (FORKES FROM azimabid00/epg) |
 | EPG2 | `https://mifntechnology.github.io/epg2/rtmklik.xml` |
