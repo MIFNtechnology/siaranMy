@@ -1,11 +1,9 @@
 # MIFNtechnology/siaranMy
 
 SALURAN IP MYTV MALAYSIA PERCUMA.
-
-TELEVISYEN INTERNET PROTOCOL (IPTV) IALAH PENGHANTARAN KANDUNGAN TELEVISYEN MELALUI RANGKAIAN INTERNET PROTOCOL (IP).
+televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
 ## SIARAN TV
-
 | SIARAN |    |     |     |  
 |--|--|--|--|
 | Tv1 | Tv9 | DidikTv | DramaSangat |
@@ -15,7 +13,6 @@ TELEVISYEN INTERNET PROTOCOL (IPTV) IALAH PENGHANTARAN KANDUNGAN TELEVISYEN MELA
 | 8tv | TvIkim | AstroAwani |   |
 
 ## CARA GUNA
-
 1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
 2. TEKAN BUTANG SETTING (⏱️) , TEKAN PLAYLIST , TEKAN BUTANG (+) , NEW M3U PLAYLIST.
 3. MASUKKAN `NAMA` & `LINK M3U/M3U8`.
@@ -24,9 +21,7 @@ TELEVISYEN INTERNET PROTOCOL (IPTV) IALAH PENGHANTARAN KANDUNGAN TELEVISYEN MELA
 6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
 
 ## LINK M3U8 
-
 LINK UNTUK `#EXTM3U`
-
 | SIARAN | LINK |
 |--|--|
 | Tv1 | `https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd` |
@@ -52,7 +47,6 @@ LINK UNTUK `#EXTM3U`
 | AstroAwani | `https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8` |
 
 ## LINK EPG
-
 |   | LINK |
 |--|--|
 |--|
@@ -61,10 +55,6 @@ LINK UNTUK `#EXTM3U`
 | EPG2 | `https://mifntechnology.github.io/epg2/rtmklik.xml` |
 | (FORKES FROM AqFad2811/epg) |
 
-
-
-
- 
  SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.
  KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².
  BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.
