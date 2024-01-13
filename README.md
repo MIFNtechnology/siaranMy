@@ -1,46 +1,45 @@
-
-
-
 # MIFNtechnology/siaranMy
 SALURAN IP MYTV MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 ## SIARAN TV
-| SIARAN |    |     |     |  
+| SIARAN | | | |  
 |--|--|--|--|
-| Tv1 | Tv6 | OkeyTv | BeritaRTM |
-| Tv2 | 8tv | TvIkim | SukanRTM |
-| Tv3 | Tv9 | Bernama | DramaSangat |
-| Tvs | DidikTv | AstroAwani |  |
+|Tv1|Tv6|OkeyTv|BeritaRTM|
+|Tv2|8tv|TvIkim|SukanRTM|
+|Tv3|Tv9|Bernama|DramaSangat|
+|Tvs|DidikTv|AstroAwani||
 ## CARA GUNA
-1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
-2. TEKAN BUTANG SETTING (⏱️) , TEKAN PLAYLIST , TEKAN BUTANG (+) , NEW M3U PLAYLIST.
-3. MASUKKAN `NAMA` & `LINK M3U/M3U8`.
-4. SALIN DAN TAMPAL LINK DIBAWAH KE `LINK M3U/M3U8` IPTV PLAYER.
-5. `https://mifntwchnology.github.io/siaranMy/mytv.m3u8`
-6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
+| |
+|--|
+|1.MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.|
+|2.TEKAN BUTANG SETTING (⏱️) , TEKAN PLAYLIST , TEKAN BUTANG (+) , NEW M3U PLAYLIST.|
+|3. MASUKKAN `NAMA` & `LINK M3U/M3U8`.
+|4. SALIN DAN TAMPAL LINK DIBAWAH KE `LINK M3U/M3U8` IPTV PLAYER.|
+|5. `https://mifntwchnology.github.io/siaranMy/mytv.m3u8`|
+|6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.|
 ## LINK M3U8 
 LINK UNTUK `#EXTM3U`
-| SIARAN | LINK |
+|SIARAN|LINK|
 |--|--|
-| Tv1 | `https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd` |
-| Tv2 | `https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd` |
-| Tv3 | `https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8`|
-| | `Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`|   
-| OkeyTv | `https://mifntechnology.github.io/siaranMy/channels/OkeyTv/index.m3u8` |
-| DramaSangat | `https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.m3u8` |
-|  | `Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0` |
-| Tv6 | `https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd` |
-| DidiTv | `https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8` |
-|  | `referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0` |
-| 8tv | `https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8` |
-|  | `referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0` |
-| Tv9 | `https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8` |
-|  | `referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0` |
-| BeritaRTM | `https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5` |
-| SukanRTM | `https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd` |
-| Bernama | `https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8` |
-| TvIkim | `https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8` |
-| Tvs | `https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8` |
-| AstroAwani | `https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8` |
+|Tv1|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd`|
+|Tv2|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd`|
+|Tv3|`https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8`|
+||`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`|   
+|OkeyTv|`https://mifntechnology.github.io/siaranMy/channels/OkeyTv/index.m3u8`|
+|DramaSangat|`https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.m3u8`|
+||`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0`|
+|Tv6|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd`|
+|DidiTv|`https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8`|
+||`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0`|
+|8tv|`https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8`|
+||`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0`|
+|Tv9|`https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8`|
+||`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0`|
+|BeritaRTM|`https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5`|
+|SukanRTM|`https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd`|
+|Bernama|`https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8`|
+|TvIkim|`https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8`|
+|Tvs|`https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8`|
+|AstroAwani|`https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8`|
 ## LINK EPG
 |   | LINK |
 |--|--|
