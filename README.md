@@ -21,7 +21,7 @@ LINK UNTUK `#EXTM3U`
 |SIARAN|LINK|
 |--|--|
 |Tv1|`https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8)`|
-|Tv2|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd`|
+|Tv2|`https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8`|
 |Tv3|`https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8`|
 |REFERRER|`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`|   
 |OkeyTv|`https://mifntechnology.github.io/siaranMy/channels/OkeyTv/index.m3u8`|
@@ -33,8 +33,8 @@ LINK UNTUK `#EXTM3U`
 |REFERRER|`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0`|
 |Tv9|`https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8`|
 |REFERRER|`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0`|
-|BeritaRTM|`https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5`|
-|SukanRTM|`https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd`|
+|BeritaRTM|`https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8`|
+|SukanRTM|`https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8`|
 |Bernama|`https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8`|
 |TvIkim|`https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8`|
 |Tvs|`https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8`|
