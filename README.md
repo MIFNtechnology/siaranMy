@@ -20,7 +20,7 @@ SALURAN IP MYTV MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah pengh
 LINK UNTUK `#EXTM3U`
 |SIARAN|LINK|
 |--|--|
-|Tv1|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd`|
+|Tv1|`https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8)`|
 |Tv2|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd`|
 |Tv3|`https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8`|
 |REFERRER|`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`|   
