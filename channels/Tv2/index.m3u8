@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1190000,BANDWIDTH=1490000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.4d001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b796000_slENG.m3u8?id=2https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b796000_slENG.m3u8?id=2
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2400000,BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b1096000_slENG.m3u8?id=2
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3440000,BANDWIDTH=4300000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+
+
