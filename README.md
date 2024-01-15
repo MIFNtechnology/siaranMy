@@ -1,5 +1,5 @@
 # MIFNtechnology/siaranMy
-SALURAN IP MYTV MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
+SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 ## SIARAN TV
 | SIARAN | | | |  
 |--|--|--|--|
