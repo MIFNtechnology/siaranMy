@@ -14,7 +14,7 @@ SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah pen
 |2.TEKAN BUTANG SETTING (⏱️) , TEKAN PLAYLIST , TEKAN BUTANG (+) , NEW M3U PLAYLIST.|
 |3. MASUKKAN `NAMA` & `LINK M3U/M3U8`.
 |4. SALIN DAN TAMPAL LINK DIBAWAH KE `LINK M3U/M3U8` IPTV PLAYER.|
-|5. `https://mifntwchnology.github.io/siaranMy/mytv.m3u8`|
+|5. `https://mifntwchnology.github.io/siaranMy/myIPtv.m3u8`|
 |6. TEKAN SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.|
 ## LINK M3U8 
 LINK UNTUK `#EXTM3U`
