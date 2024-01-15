@@ -5,7 +5,7 @@ Example files to create and fill in.
 1. Copy this file and fill in https m3u8 link at remark ( fill in ) ,each on resolution.
 2. After fill in,save it with name `index.m3u8` or `etc.m3u8`
 3. Example afer save file,
-* `(HTTPS://example.github.io/respontory/channel/tvname/index.m3u8)`
+* `(HTTPS://example.github.io/repositories/channel/tvname/index.m3u8)`
  
 
 | FRAME-RATE |
@@ -25,7 +25,7 @@ Example files to create and fill in.
 4. After fill in,save it name with `index.html` or `etc.html`
 5. Dont forget to remove this symbol [ ` (  )  ]
 6. Example after save file
-* `HTTPS://example.github.io/respontory/channel/tvname/index.html`
+* `HTTPS://example.github.io/repositories/channel/tvname/index.html`
 
 | HTML |
 |----|
