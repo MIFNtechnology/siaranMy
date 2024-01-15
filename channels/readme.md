@@ -44,3 +44,4 @@ Example files to create and fill in.
 (`HTTPS://fill in your index.m3u8`)
 #EXTINF:-1 tvg-id="fill in" tvg-name="fill in" tvg-number="fill in" tvg-logo="`HTTPS://fill in .png`"
 (`HTTPS://fill in your index.m3u8`) |
+
