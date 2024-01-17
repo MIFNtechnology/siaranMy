@@ -1,12 +1,13 @@
 # MIFNtechnology/siaranMy 
 SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 ## SIARAN TV
-| SIARAN | | | |  
+ SIARAN | | | |  
 |--|--|--|--|
-|Tv1|Tv6|OkeyTv|BeritaRTM|
-|Tv2|8tv|TvIkim|SukanRTM|
-|Tv3|Tv9|Bernama|DramaSangat|
-|Tvs|DidikTv|AstroAwani||
+|Tv1|Tv6|Bernama|BeritaRTM|
+|Tv2|8tv|AstroAwani|SukanRTM|
+|Tv3|Tv9|DramaSangat||
+|Tvs|DidikTv|DewanRakyat||
+|OkeyTv|TvIkim|DewanNegara||
 ## CARA GUNA
 | |
 |-|
@@ -39,6 +40,8 @@ LINK UNTUK `#EXTM3U`
 |TvIkim|`https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8`|
 |Tvs|`https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8`|
 |AstroAwani|`https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8`|
+|DewanRayat|`https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8`|
+|DewanNegara|`https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8`|
 ## LINK EPG
 |   | LINK |
 |--|--|
