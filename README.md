@@ -28,7 +28,7 @@ LINK UNTUK `#EXTM3U`
 |OkeyTv|`https://mifntechnology.github.io/siaranMy/channels/OkeyTv/index.m3u8`|
 |DramaSangat|`https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.m3u8`|
 |REFERRER|`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0`|
-|Tv6|`https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd`|
+|Tv6|`https://mifntechnology.github.io/siaranMy/channels/Tv6./index.m3u8`|
 |DidiTv|`https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8`|`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0`|
 |8tv|`https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8`|
 |REFERRER|`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0`|
