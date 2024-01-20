@@ -8,7 +8,7 @@ ___
 |Tv2|8tv|AstroAwani|SukanRTM|
 |Tv3|Tv9|DramaSangat||
 |Tvs|DidikTv|DewanRakyat||
-|OkeyTv|TvIkim|DewanNegara|
+|TvOkey|TvIkim|DewanNegara|
 ___
 ## CARA GUNA
 - JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
@@ -31,7 +31,7 @@ ___
 |Tv2|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8`]|
 |Tv3|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8`]|
 |REFERRER|[`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`]|   
-|OkeyTv|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/OkeyTv/index.m3u8`]|
+|TvOkey|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8`]|
 |DramaSangat|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8`]|
 |REFERRER|[`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0`]|
 |Tv6|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8`]|
