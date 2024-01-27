@@ -53,10 +53,8 @@ ___
 ## PAUTAN EPG
 |   | PAUTAN |
 |--|--|
-| EPG | [`https://mifntechnology.github.io/epg/astro_epg.xml`] |
-| |FORKES FROM azimabid00/epg|
-| EPG2 | [`https://mifntechnology.github.io/epg2/rtmklik.xml`] |
-| |FORKES FROM AqFad2811/epg|
+| RTM | [`https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml`] |
+| ASTRO | [`https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml`] |
 ___
 ## IKLAN
 ||
