@@ -1,0 +1,1 @@
+pbcopy < ~/.ssh/project_key.pub
