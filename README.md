@@ -5,14 +5,15 @@ ___
 
 | Channel | Logo | Tag |
 |:----------:|:--------:|:---------:|
-| siaranMy | <img height="60" weight="70" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png"/> | myIPtv.m3u8 |
+| siaranMy | [<img weight="70" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png"/>] | myIPtv.m3u8 |
+
 
 | Channel | | | | |
 |--|--|--|--|--|
-| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png"/> | 
-| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/8tv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"/> |
-| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png"/> | 
-| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png"/> |
+| [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png"/>](list/Tv1.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png"/>](list/Tv2.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png"/>](list/Tv3.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png"/>](list/OkeyTv.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png"/>](list/Tv6.md) | 
+| [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"/>](list/DidikTv.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/8tv.png"/>](list/8tv.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png"/>](list/Tv9.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png"/>](list/DramaSangat.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"/>](list/BeritaRtm.md) |
+| [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"/>](list/SukamRtm.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png"/>](list/Bernama.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"/>](list/TvIkim.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"/>](list/Tvs.md) | [<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png"/>](list/AstroAwani.md) | 
+| [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png"/>](list/DewanRakyat.md) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png"/>](list/DewanNegara.md) |
 
 ## CARA GUNA
 - JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
