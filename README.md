@@ -7,19 +7,13 @@ ___
 |:----------:|:--------:|:---------:|
 | siaranMy | <img height="60" weight="70" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png"/> | myIPtv.m3u8 |
 
-| Channel | Logo | EPG id | | Channel | Logo | EPG id |
-|:------:|:-----:|:-----:|-|:------:|:------:|:-----:|
-| Tv1 | <img height="30" weight="40"                                                                                          src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png"/> | Tv1.my || Tv2 | <img height="30" weight="40" src="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg"/>|Tv2.my| 
-|Tv3| <img height="50" weight="50" src="https://www.xtra.com.my/live-tv/assets/img/tv3.png"/> | Tv3.my || TvOkey | <img height="30" weight="40" src="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg"/> | TvOkey.my |
-| Tv6 | <img height="30" weight="40" src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/eyqwgr.png"/> | Tv6.my || DidikTvKPM | <img height="30" weight="40" src="https://www.xtra.com.my/live-tv/assets/img/ntv7.png"/> | DidikTvKPM.my |
-| 8tv | <img height="30" weight="40" src="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON"/> | 8tv.my || Tv9 | <img height="30" weight="40" src="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON"/> | Tv9.my |
-| DramaSangat | <img height="30" weight="40" src="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png"/> | DramaSangat.my || BeritaRTM | <img height="30" weight="40"  src="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png"/> | BeritaRTM.my |
-| SukanRTM | <img height="30" weight="40" src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/sukan-rtm-banner-1685021195853.png"/> | SukanRTM.my || Bernama | <img height="30" weight="40" src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png"/> | Bernama.my |
-| TvIkim | <img height="30" weight="40" src="https://www.tvikim.my/images/header-tvikim-logo-white.png"/> | TvIkim.my || Tvs | <img height="30" weight="40" src="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png"/> | Tvs.my |
-| AstroAwani | <img height="30" weight="40" src="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg"/> | AstroAwani.my | |TvAlhijrah | <img height="30" weight="40" src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/fsgtlo.png"/> | TvAlhijrah.my |
-| DewanRakyat | <img height="30" weight="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png"/> | DewanRakyat.my || DewanNegara | <img height="30" weight="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png"/> | DewanNegara.my | />
+| Channel | | | | |
+|--|--|--|--|--|
+| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png"/> | 
+| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/8tv.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"/> |
+| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png"/> | 
+| <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png"/> | <img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png"/> |
 
-___
 ## CARA GUNA
 - JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
 
@@ -37,7 +31,7 @@ ___
 
 |SIARAN|LINK|
 |--|--|
-|Tv1|[`[https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8`]|
+|Tv1|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8`]|
 |Tv2|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8`]|
 |Tv3|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8`]|
 |REFERRER|[`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`]|   
@@ -59,13 +53,17 @@ ___
 |AstroAwani|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8`]|
 |DewanRayat|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8`]|
 |DewanNegara|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8`]|
-___
+
 ## PAUTAN EPG
-|   | PAUTAN |
-|--|--|
-| RTM | [`https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml`] |
-| ASTRO | [`https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml`] |
-___
+RTM 
+~~~
+https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml 
+~~~
+ASTRO
+~~~
+ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+~~~
+
 ## IKLAN
 ||
 |--|
