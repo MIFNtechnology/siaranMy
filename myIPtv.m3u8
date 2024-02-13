@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
