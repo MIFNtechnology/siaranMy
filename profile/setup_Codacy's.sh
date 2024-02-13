@@ -1,0 +1,6 @@
+#!/user/bin/git
+
+export CODACY_API_TOKEN=LKT4V085saLlzSm3YfQ6
+export CODACY_ORGANIZATION_PROVIDER=gh
+export CODACY_USERNAME=MIFNtechnology
+export CODACY_PROJECT_NAME=siaranMy
