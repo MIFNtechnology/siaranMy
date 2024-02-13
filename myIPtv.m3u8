@@ -1,45 +1,45 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv1-banner-1685020927481.png",TV1
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png",TV3
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8|Referrer=https://www.livetvmalaysia.online/2019/04/tv3.html
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/eyqwgr.png",TV6
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv KPM" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png",DidikTv KPM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="DRAMASANGAT" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="DRAMASANGAT" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png",Drama Sangat
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BeritaRTM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BeritaRTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/sukan-rtm-banner-1685021195853.png",Sukan RTM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",Sukan RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/iptdrv.png",Bernama
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2023/05/TVS-Logo-130x80px-v2.png",TVS
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV Ikim
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani
