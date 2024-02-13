@@ -1,3 +1,5 @@
+![dependabot](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependabot.yml/badge.svg)
+
 # SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
 ___
