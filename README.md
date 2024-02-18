@@ -1,5 +1,3 @@
-![dependabot](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependency-review.yml/badge.svg)
-
 # SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
 ___
@@ -16,6 +14,7 @@ ___
 | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"/>](logo/DidikTv.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/8tv.png"/>](logo/8tv.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png"/>](logo/Tv9.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png"/>](logo/DramaSangat.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"/>](logo/BeritaRtm.png) |
 | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"/>](logo/SukamRtm.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png"/>](logo/Bernama.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"/>](logo/TvIkim.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"/>](logo/Tvs.png) | [<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png"/>](logo/AstroAwani.png) | 
 | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png"/>](logo/DewanRakyat.png) | [<img width="50" src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png"/>](logo/DewanNegara.png) |
+____
 
 ## CARA GUNA
 - JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
@@ -39,8 +38,8 @@ ASTRO
 ~~~
  https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 ~~~
+___
 
-## IKLAN
-||
+|IKLAN|
 |--|
 |SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.SAYA CUMA AMBIL KERJA KECILAN SHJ.SUDI²LAH LAWAT KE LAMAN MUKA BUKU SAYA ,KLIK👉<link><url> [https://www.facebook.com/MIFNtechnology] </url>|
