@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/inde
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8|referrer=https://www.livetvmalaysia.online/2019/04/tv3.html
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
