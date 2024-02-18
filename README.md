@@ -29,33 +29,6 @@ ___
 | 5. [`https://mifntwchnology.github.io/siaranMy/myIPtv.m3u8`]
 | 6. KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON. |
 ___
-## PAUTAN M3U8/HTML
-- UNTUK SENARAI PEMAIN M3U/M3U8.
-
-|SIARAN|LINK|
-|--|--|
-|Tv1|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8`]|
-|Tv2|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8`]|
-|Tv3|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8`]|
-|REFERRER|[`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0`]|   
-|TvOkey|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8`]|
-|DramaSangat|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8`]|
-|REFERRER|[`Referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0`]|
-|Tv6|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8`]|
-|DidiTv|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8`]|
-|REFERRER|[`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0`]|
-|8tv|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8`]|
-|REFERRER|[`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0`]|
-|Tv9|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8`]|
-|REFERRER|[`referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0`]|
-|BeritaRTM|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8`]|
-|SukanRTM|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8`]|
-|Bernama|[`https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8`]|
-|TvIkim|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8`]|
-|Tvs|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8`]|
-|AstroAwani|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8`]|
-|DewanRayat|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8`]|
-|DewanNegara|[`https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8`]|
 
 ## PAUTAN EPG
 RTM 
