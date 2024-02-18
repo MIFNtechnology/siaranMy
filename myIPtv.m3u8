@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvK
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8|referrer=https://www.tvmalaysia.net/2022/04/tv9.html?m=1
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8|referrer=https://www.livetvmalaysia.online/2019/04/tv9.html
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="DRAMASANGAT" tvg-number="106" tvg-name="Drama Sangat" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png",Drama Sangat
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
