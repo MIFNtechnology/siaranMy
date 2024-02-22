@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:171136286
-#EXTINF:10,title=
+#EXTINF:-1 HitzFm
 https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
