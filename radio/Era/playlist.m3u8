@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:171135809
+#EXTINF:10,title=
+https://n07.rcs.revma.com/crec9cmbv4uvv/7_193wdn5otpssn02/main/171135807.aac
+#EXTINF:10,
+https://n07.rcs.revma.com/crec9cmbv4uvv/7_193wdn5otpssn02/main/171135808.aac
+#EXTINF:10,title=
+https://n07.rcs.revma.com/crec9cmbv4uvv/7_193wdn5otpssn02/main/171135809.aac
