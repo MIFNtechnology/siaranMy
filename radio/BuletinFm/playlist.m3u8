@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-group="radio"
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:171137946
+#EXTINF:10,title=
 https://mediaprima.rastream.com/mediaprima-koolfm
