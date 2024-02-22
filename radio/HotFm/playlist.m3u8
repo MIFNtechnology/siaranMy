@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 radio/HotFm,
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:171135809
+#EXTINF:10,title=
 https://mediaprima.rastream.com/mediaprima-hotfm
