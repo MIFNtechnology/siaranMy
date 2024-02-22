@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 siaranMy/
+https://github.com/MIFNtechnology/siaranMy/channels/TvAlhijrah/index.m3u8?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
