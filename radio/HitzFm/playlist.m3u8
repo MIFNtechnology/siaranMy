@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:171136286
+#EXTINF:10,title="",artist=" "
+https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/main/171136284.aac
+#EXTINF:10,title="",artist=" "
+https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/main/171136285.aac
+#EXTINF:10,title="",artist=" "
+https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/main/171136286.aac
