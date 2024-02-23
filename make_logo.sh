@@ -3,7 +3,7 @@
 curl -sS https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/usr/share/siaranMy/logo/logo_name.png -o ./logo/logo_name.png
 echo "FO:Faroe Islands" >> ./logo/logo_name.png
 
-for channel in 'cmd</logo/logo_name.png | grep -v "^$" | grep -v ".png"`; do
+for channel in 'CAT /logo/logo_name.png | grep -v "^$" | grep -v ".png"`; do
     logo_name.png=`echo "$logo"|sed -e "s/_/ /g"`
 
     [[ "$logo_name" == "Tv1" ]] && logo_name="Tv1.png"
