@@ -2,23 +2,25 @@
 
 ## SALURAN TV
 
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png"/>](lists/Tv1.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png"/>](lists/Tv2.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png"/>](lists/Tv3.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png"/>](lists/OkeyTv.md) 
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png"/>](lists/Tv6.md)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"/>](lists/DidikTv.md)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/8tv.png"/>](lists/8tv.md)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png"/>](lists/Tv9.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png"/>](lists/DramaSangat.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"/>](lists/BeritaRtm.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"/>](lists/SukamRtm.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png"/>](lists/Bernama.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"/>](lists/TvIkim.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"/>](lists/Tvs.md)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png"/>](lists/AstroAwani.md) 
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png"/>](lists/DewanRakyat.md)
-[<img width="40" src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png"/>](lists/DewanNegara.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png" width="40" />](lists/Tv1.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png" width="40" />](lists/Tv2.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png" width="40" />](lists/Tv3.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png" width="40" />](lists/OkeyTv.md) 
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png" width="40" />](lists/Tv6.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png" width="40" />](l/ists/DidikTv.md)
+
+[<img src="https://mifntechnology.github.io/siaranMy/logo/8tv.png" width="40" />](lists/8tv.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv9.png" width="40" />](lists/Tv9.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png" width="40" />](lists/DramaSangat.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png" width="40" />](lists/BeritaRtm.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png" width="40" />](lists/SukamRtm.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Bernama.png" width="40" />](lists/Bernama.md)
+
+[<img src="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png" width="40" />](lists/TvIkim.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg" width="40" />](lists/Tvs.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/AstroAwani.png" width="40" />](lists/AstroAwani.md) 
+[<img src="https://mifntechnology.github.io/siaranMy/logo/DewanRakyat.png" width="40" />](lists/DewanRakyat.md)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/DewanNegara.png" width="40" />](lists/DewanNegara.md)
 
 ## SALURAN RADIO
 
