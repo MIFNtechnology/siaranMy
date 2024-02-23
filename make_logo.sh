@@ -19,7 +19,7 @@ for logo in `cat ./logo_order.txt | grep -v "^$" | grep -v "#"`; do
         logo_code="${logo_code_arr[0],,}"
     fi
 
-    echo "[<img src=\"https://hatscripts.github.io/circle-logos/logos/$logo_code.svg\" width=\"24\">](lists/$logo.md)"
+    echo "[<img src=\"https://mifntechnology.github.io/siaranMy/logo/circle-logos/logos/$logo_code.svg\" width=\"24\">](lists/$logo.md)"
 done
 
 rm ./logo.list
