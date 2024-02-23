@@ -19,7 +19,7 @@ for channel in `cat ./logo_order.txt | grep -v "^$" | grep -v "#"`; do
         channel_code="${channel_code_arr[0],,}"
     fi
 
-    echo "[<img src=\"https://mifntechnology.github.io/siaranMy/logo/logos/$channel_name.svg\" width=\"40\">](logo/$channel.png)"
+    echo "[<img src=\"https://mifntechnology.github.io/siaranMy/logo/logos/$channel_code.svg\" width=\"40\">](logo/$channel.png)"
 done
 
 rm ./logo/channels.logo
