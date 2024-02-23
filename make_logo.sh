@@ -1,25 +1,25 @@
 #!/usr/bin/env bash
 
-curl -sS https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/usr/share/siaranMy/logo/channels.logo -o ./logo/channels.logo
-echo "FO:Faroe Islands" >> ./logo/channels.logo
+curl -sS https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/usr/share/siaranMy/logo/logo_name.png -o ./logo/logo_name.png
+echo "FO:Faroe Islands" >> ./logo/logo_name.png
 
-for channel in `cat ./logo_order.txt | grep -v "^$" | grep -v "#"`; do
-    channel_name=`echo "$channel"|sed -e "s/_/ /g"`
+for channel in 'cmd</logo/logo_name.png | grep -v "^$" | grep -v ".png"`; do
+    logo_name.png=`echo "$logo"|sed -e "s/_/ /g"`
 
-    [[ "$channel_name" == "Tv1" ]] && channel_name="Tv1.png"
-    [[ "$channel_name" == "Tv2" ]] && channel_name="Tv2.png"
+    [[ "$logo_name" == "Tv1" ]] && logo_name="Tv1.png"
+    [[ "$logo_name" == "Tv2" ]] && logo_name="Tv2.png"
 
-    channel_code_line=`cat ./logo/channels.logo|grep -m 1 -i "$channel_name"`
+    logo_name.png=`cmd< /logo/logo_name.png|grep -m 1 -i "$logo_name.png"`
 
-    if [[ -z "$channel_code_line" ]]; then
-        echo "MISSING CHANNEL CODE FOR: $channel"
+    if [[ -z "$logo_name.png" ]]; then
+        echo "MISSING LOGO NAME FOR: $logo"
         exit 1
-    elif [[ -n "$channel_code_line" ]]; then
-        IFS=':'; channel_code_arr=($channel_code_line); unset IFS
-        channel_code="${channel_code_arr[0],,}"
+    elif [[ -n "$logo_name.png" ]]; then
+        IFS=':'; logo_name_arr=($logo_name.png); unset IFS
+        logo_name="$logo_name_arr[0],,"
     fi
 
-    echo "[<img src=\"https://mifntechnology.github.io/siaranMy/logo/logos/$channel_code.svg\" width=\"40\">](logo/$channel.png)"
+    echo "[<img src=\"https://mifntechnology.github.io/siaranMy/logo/logos/$logo_name.svg\" width=\"40\">](logo/$channel.png)"
 done
 
 rm ./logo/channels.logo
