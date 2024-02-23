@@ -2,39 +2,40 @@
 
 ## SALURAN TV
 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv1.svg" width="40" />](logo/Tv1.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv2.svg" width="40" />](logo/Tv2.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv3.svg" width="40" />](logo/Tv3.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/OkeyTv.svg" width="40" />](logo/OkeyTv.png) 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv6.svg" width="40" />](logo/Tv6.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DidikTv.svg" width="40" />](logo/DidikTv.png)
 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/8tv.svg" width="40" />](logo/8tv.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv9.svg" width="40" />](logo/Tv9.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DramaSangat.svg" width="40" />](logo/DramaSangat.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/BeritaRtm.svg" width="40" />](logo/BeritaRtm.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/SukanRtm.svg" width="40" />](logo/SukamRtm.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Bernama.svg" width="40" />](logo/Bernama.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv1.png" width="40" />](logo/Tv1.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv2.png" width="40" />](logo/Tv2.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv3.png" width="40" />](logo/Tv3.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/OkeyTv.png" width="40" />](logo/OkeyTv.png) 
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv6.png" width="40" />](logo/Tv6.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DidikTv.png" width="40" />](logo/DidikTv.png)
 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/TvIkim.svg" width="40" />](logo/TvIkim.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tvs.svg" width="40" />](logo/Tvs.jpg)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/AstroAwani.svg" width="40" />](logo/AstroAwani.png) 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DewanRakyat.svg" width="40" />](logo/DewanRakyat.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DewanNegara.svg" width="40" />](logo/DewanNegara.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/8tv.png" width="40" />](logo/8tv.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv9.png" width="40" />](logo/Tv9.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DramaSangat.png" width="40" />](logo/DramaSangat.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/BeritaRtm.png" width="40" />](logo/BeritaRtm.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/SukanRtm.png" width="40" />](logo/SukamRtm.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Bernama.png" width="40" />](logo/Bernama.png)
+
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/TvIkim.png" width="40" />](logo/TvIkim.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tvs.png" width="40" />](logo/Tvs.jpg)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/AstroAwani.png" width="40" />](logo/AstroAwani.png) 
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DewanRakyat.png" width="40" />](logo/DewanRakyat.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DewanNegara.png" width="40" />](logo/DewanNegara.png)
 
 ## SALURAN RADIO
 
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/Era.svg"/>](logo/Era.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/FlyFm.svg"/>](logo/FlyFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/HotFm.svg"/>](logo/HotFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/HitzFm.svg"/>](logo/HitzFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/JohorFm.svg"/>](logo/JohorFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/NasionalFm.svg"/>](logo/NasionalFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/RadioKlasik.svg"/>](logo/RadioKlasik.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/SinarFm.svg"/>](logo/SinarFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/Suria.svg"/>](logo/Suria.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/BuletinFm.svg"/>](logo/BuletinFm.png)
-[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/bestfm.svg"/>](logo/bestfm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/Era.png"/>](logo/Era.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/FlyFm.png"/>](logo/FlyFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/HotFm.png"/>](logo/HotFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/HitzFm.png"/>](logo/HitzFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/JohorFm.png"/>](logo/JohorFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/NasionalFm.png"/>](logo/NasionalFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/RadioKlasik.png"/>](logo/RadioKlasik.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/SinarFm.png"/>](logo/SinarFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/Suria.png"/>](logo/Suria.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/BuletinFm.png"/>](logo/BuletinFm.png)
+[<img width="30" src="https://mifntechnology.github.io/siaranMy/logo/logos/bestfm.png"/>](logo/bestfm.png)
 
 ## CARA GUNA
 - JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
