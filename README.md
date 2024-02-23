@@ -7,7 +7,7 @@
 [<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv3.svg" width="40" />](logo/Tv3.png)
 [<img src="https://mifntechnology.github.io/siaranMy/logo/logos/OkeyTv.svg" width="40" />](logo/OkeyTv.png) 
 [<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv6.svg" width="40" />](logo/Tv6.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DidikTv.svg" width="40" />](logo/DidikTv.svg)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/logos/DidikTv.svg" width="40" />](logo/DidikTv.png)
 
 [<img src="https://mifntechnology.github.io/siaranMy/logo/logos/8tv.svg" width="40" />](logo/8tv.png)
 [<img src="https://mifntechnology.github.io/siaranMy/logo/logos/Tv9.svg" width="40" />](logo/Tv9.png)
