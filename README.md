@@ -2,8 +2,8 @@
 
 ## SALURAN TV
 
-[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv1.png" width="40" />](logo/Tv1.png)
-[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv2.png" width="40" />](logo/Tv2.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv1.svg" width="40" />](logo/Tv1.png)
+[<img src="https://mifntechnology.github.io/siaranMy/logo/Tv2.svg" width="40" />](logo/Tv2.png)
 [<img src="https://mifntechnology.github.io/siaranMy/logo/Tv3.png" width="40" />](logo/Tv3.png)
 [<img src="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png" width="40" />](logo/OkeyTv.png) 
 [<img src="https://mifntechnology.github.io/siaranMy/logo/Tv6.png" width="40" />](logo/Tv6.png)
