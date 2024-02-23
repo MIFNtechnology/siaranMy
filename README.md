@@ -14,7 +14,7 @@ myIptv
 | 2. KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK 'NEW M3U PLAYLIST'.
 | 3. MASUKKAN NAMA & PAUTAN M3U/M3U8.
 | 4. SALIN DAN TAMPAL PAUTAN M3U/M3U8 KE IPTV PLAYER.
-| 5. (`https://mifntwchnology.github.io/siaranMy/myIPtv.m3u8`)
+| 5. [`https://mifntwchnology.github.io/siaranMy/myIPtv.m3u8`]
 | 6. KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON. |
 
 
