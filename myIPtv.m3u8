@@ -61,25 +61,25 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/BestFm/play
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/BuletinFm/mediaprima-koolfm
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Era.my" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/Era/playlist.m3u8
+https://stream.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="FlyFm.my" tvg-name="FlyFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",FlyFm
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="HitzFm.my" tvg-name="HitzFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",HitzFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/HitzFm/playlist.m3u8
+https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="JohorFm.my" tvg-name="JohorFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",JohorFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/JohorFm/JOHOR_FMAAC.aac
+https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
  
 #EXTINF:-1 tvg-group="radio" tvg-id="NasionalFm.my" tvg-name="NasionalFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/NasionalFm/NASIONAL_FMAAC.aac
+https://23693.live.streamtheworld.com:443/NASIONAL_FMAAC.aac
  
 #EXTINF:-1 tvg-group="radio" tvg-id="RadioKlasik.my" tvg-name="RadioKlasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",RadioKlasik
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/RadioKlasik/playlist.m3u8
+https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
  
 #EXTINF:-1 tvg-group="radio" tvg-id="SinarFm.my" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/SinarFm/playlist.m3u8
+https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="SuriaFm.my" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SuriaFm.png",SuriaFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/SuriaFm/SURIA_FMAAC.aac
+https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
