@@ -52,13 +52,13 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="HotFm.my" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/HotFm/mediaprima-hotfm.android
+https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 tvg-group="radio" tvg-id="BestFm.my" tvg-name="BestFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BestFm.png",BestFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/BestFm/playlist.m3u8
+#EXTINF:-1 tvg-group="radio" tvg-id="BestFm.my" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
+https://n13.rcs.revma.com/h34x4kgg9hhvv?rj-ttl=5&rj-tok=AAABjdNaUzcAJAjWSVGaGY5EgA
  
 #EXTINF:-1 tvg-group="radio" tvg-id="BuletinFm.my" tvg-name="BuletinFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",BuletinFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/BuletinFm/mediaprima-koolfm
+https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Era.my" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
 https://stream.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/playlist.m3u8
@@ -81,5 +81,5 @@ https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
 #EXTINF:-1 tvg-group="radio" tvg-id="SinarFm.my" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
 https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="SuriaFm.my" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SuriaFm.png",SuriaFm
+#EXTINF:-1 tvg-group="radio" tvg-id="SuriaFm.my" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
 https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
