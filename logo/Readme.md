@@ -1,9 +1,14 @@
 # CHANNELS LOGO
-LISTS FROM MIFN LOGO CHANNELS
+* LISTS OF LOGO CHANNELS
+* MAKE PREVIEW WITH 'WIDTH'
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](https://github.com/MIFNtechnology/siaranMy/blob/main/logo_mifn.png)
 
-## TV AND RADIO LOGOS
+## TV AND RADIO LOGO LISTS
+
+~~~
+https://github.com/MIFNtechnology/siaranMy/blob/main/logo
+~~~
 
 |TV|
 |--|
