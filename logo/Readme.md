@@ -4,11 +4,7 @@
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](https://github.com/MIFNtechnology/siaranMy/blob/main/logo_mifn.png)
 
-## TV AND RADIO LOGO LISTS
-
-~~~
-https://github.com/MIFNtechnology/siaranMy/blob/main/logo
-~~~
+## TV AND RADIO LOGO
 
 |TV|
 |--|
