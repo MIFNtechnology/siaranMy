@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:171135809
-#EXTINF:10,title=
-https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/index.html?radio=RADIO_KLASIK
+#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
+https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
