@@ -1,5 +1,10 @@
+
 #EXTM3U
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:171137946
-#EXTINF:10,title=
-https://stream.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/playlist.m3u8
+#EXT-X-MEDIA-SEQUENCE:171168985
+#EXTINF:10,title="",artist=""
+https://n12.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/main/171168983.aac
+#EXTINF:10,title="",artist=""
+https://n12.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/main/171168984.aac
+#EXTINF:10,title="",artist=""
+https://n12.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/main/171168985.aac
