@@ -64,7 +64,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 https://stream.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Fly Fm" tvg-name="FlyFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",FlyFm
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/playlist.m3u8
+https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",HitzFm
 https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
