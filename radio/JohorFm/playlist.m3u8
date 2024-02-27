@@ -1,4 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
-https://23683.live.streamtheworld.com/JOHOR_FMAAC.aac
-
+https://14003.live.streamtheworld.com:443/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
