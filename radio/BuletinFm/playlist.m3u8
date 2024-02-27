@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.5,avc1.4d4020",
+#EXTINF: radio/BuletinFm,
 https://mediaprima.rastream.com/mediaprima-koolfm
