@@ -1,3 +1,5 @@
 #EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=591680,CODECS="avc1.42e01e,mp4a.40.2",AUDIO="DD group"
+hi/prog-index.aac,URI="https://22243.live.streamtheworld.com/SURIA_FMAAC.aac?key=value&key2=value2&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=f0b15df0-ae26-447c-f364-8bb90e7b404c"
 #EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
 https://23693.live.streamtheworld.com/SURIA_FMAAC.aac
