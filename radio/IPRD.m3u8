@@ -32,3 +32,6 @@ https://raw.githubusercontent.com/radio/SinarFm/playlist.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm 
 https://23683.live.streamtheworld.com/SURIA_FMAAC.aac 
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
