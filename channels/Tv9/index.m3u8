@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=600000.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton4_270p/hdntl=exp=1709297025~acl=%2f*~data=hdntl~hmac=f75cdb50873e5e8443d6358f4dbbc7f5ef59200547a41deb26a76422811d5b3a/index.m3u8?&hdnts=exp=1709225200~hmac=49923f189b2c0af9665d71ff49e2836ee105f1cc81c2c4dfad7a0b8cd33a9255
 #EXT-X-STREAM-INF:BANDWIDTH=1209862,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=849984.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton4_360p/hdntl=exp=1709297025~acl=%2f*~data=hdntl~hmac=f75cdb50873e5e8443d6358f4dbbc7f5ef59200547a41deb26a76422811d5b3a/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1568726,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=2000000.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton4_480p/hdntl=exp=1709297025~acl=%2f*~data=hdntl~hmac=f75cdb50873e5e8443d6358f4dbbc7f5ef59200547a41deb26a76422811d5b3a/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4370178,CODECS="mp4a.40.2,avc1.4d4020",RESOLUTION=1280x720,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=3000000.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton4_720p/hdntl=exp=1709297025~acl=%2f*~data=hdntl~hmac=f75cdb50873e5e8443d6358f4dbbc7f5ef59200547a41deb26a76422811d5b3a/index.m3u8
