@@ -1,13 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:
-#EXTINF:4.992,title="",url=""
-https://chunks.rastream.com/ikim-ikimfm/a1emvHxUkOEp-341844217-4992.aac
-#EXT-X-PROGRAM-DATE-TIME:
-#EXTINF:5.034,title="",url=""
-https://chunks.rastream.com/ikim-ikimfm/hXZDHsOGNMwp-341844218-5034.aac
-#EXT-X-PROGRAM-DATE-TIME:
-#EXTINF:4.992,title="",url=""
-https://chunks.rastream.com/ikim-ikimfm/25rzTUGP9bwp-341844219-4992.aac
+#EXTVLCOPT:https-referrer=https://raw.githubusercontent.com/siaranMy/main/radio/IkimFm/ikim_index.html
+#EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
+https://hls.rastream.com:443/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_7436599_QpVjT8Hd_MTAzLjIxLjgxLjM6ODA!_0000002PIUI&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIMfm_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDkyMjIyNTksImV4cCI6MTcwOTMwODY1OX0.vuPkrdmj7cYW7wOdwS6qavc2jcM01C8eUCim5i2rs_I&lan=%5B%22ms%22%5D&setLanguage=true
