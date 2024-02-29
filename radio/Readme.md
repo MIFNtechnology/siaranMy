@@ -9,7 +9,7 @@ FREE IPRD
 | radio | Era | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" width="40" />](logo/Era.png)|| radio | Fly Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" alt="FlyFm" width="40" />](logo/FlyFm.png)|
 | radio | Hitz Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" width="40" />](logo/HitzFm.png)|| radio | Nasional Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" width="40" />](logo/NasionalFm.png)|
 | radio | Radio Klasik | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" width="40" />](logo/RadioKlasik.png)|| radio | Sinar Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" width="40" />](logo/SinarFm.png)|
-| radio | Suria Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](logo/Suria.png)|
+| radio | Suria Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](logo/Suria.png)|| radio | Ria Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="RiaFm" width="45" />](logo/RiaFm.png)|
 
 ## USAGE
 * M3U8
