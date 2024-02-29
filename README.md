@@ -7,7 +7,7 @@
 | TV |
 |--|
 
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" width="60" />](logo/Tv1.png)
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" width="60" />](logo/Tv2.png)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png" alt="Tv3" width="50" />](logo/Tv3.png)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png " alt="OkeyTv" width="60" />](logo/OkeyTv.png) 
