@@ -1,3 +1,13 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
-https://chunks.rastream.com/ikim-ikimfm/bTd2B6JDo3Tp-341843821-4992.aac
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:4.992,title="",url=""
+https://chunks.rastream.com/ikim-ikimfm/a1emvHxUkOEp-341844217-4992.aac
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:5.034,title="",url=""
+https://chunks.rastream.com/ikim-ikimfm/hXZDHsOGNMwp-341844218-5034.aac
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:4.992,title="",url=""
+https://chunks.rastream.com/ikim-ikimfm/25rzTUGP9bwp-341844219-4992.aac
