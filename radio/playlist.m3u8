@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:https-referrer=https://raw.githubusercontent.com/siaranMy/main/radio/RiaFm/ria_index.html
+#EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapor
