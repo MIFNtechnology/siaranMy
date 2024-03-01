@@ -55,19 +55,19 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNeg
 https://mediaprima.rastream.com/mediaprima-hotfm
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Best Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
-https://n13.rcs.revma.com/h34x4kgg9hhvv?rj-ttl=5&rj-tok=AAABjdNaUzcAJAjWSVGaGY5EgA
+https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Buletin Fm" tvg-name="BuletinFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",BuletinFm
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Era" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
-https://stream.rcs.revma.com/crec9cmbv4uvv/12_jvreh5bbuoqa02/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Fly Fm" tvg-name="FlyFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",FlyFm
 https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",HitzFm
-https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Johor Fm" tvg-name="JohorFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",JohorFm
 https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
@@ -79,11 +79,14 @@ https://23693.live.streamtheworld.com:443/NASIONAL_FMAAC.aac
 https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
-https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
 https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Ikim Fm" tvg-name="IkimFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/IkimFm.png",IkimFm
+https://mifntechnology.github.io/siaranMy/radio/IkimFm/playlist.m3u8
 
