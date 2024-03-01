@@ -1,3 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="avc1.4d400d,mp4a.40.2"
-https://mifntechnology.github.io/siaranMy/radio/RiaFm/RIA897FMAAC.aac
+#EXTINF:-1 RiaFm,
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
