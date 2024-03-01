@@ -40,7 +40,12 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html)
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="bestfm" width="55" />](https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html)
+
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="bestfm" width="50" />](https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html)
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/IkimFm/ikim_index.html)
+~~~
+
+~~~
 
 ## CARA GUNA
  JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
