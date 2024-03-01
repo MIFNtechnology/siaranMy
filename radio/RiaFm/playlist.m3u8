@@ -1,3 +1,3 @@
 #EXTM3U
-#EXT-X-ENDLIST
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="avc1.mp4a.40.2"
+https://23253.live.streamtheworld.com/RIA897FMAAC/playlist.m3u8?dist=radiosingapore
