@@ -1,3 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapor
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
