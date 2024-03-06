@@ -4,6 +4,8 @@
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](siaranMy/preview.png)
 
+[![Dependency Review](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependency-review.yml/badge.svg?branch=main)](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependency-review.yml)
+
 | TV |
 |--|
 
