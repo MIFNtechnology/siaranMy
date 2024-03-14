@@ -1,8 +1,8 @@
 # SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).
 
-## SALURAN TV
+[![pages-build-deployment](https://github.com/MIFNtechnology/siaranMy/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/MIFNtechnology/siaranMy/actions/workflows/pages/pages-build-deployment)
 
-[![Dependency Review](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependency-review.yml/badge.svg?branch=main)](https://github.com/MIFNtechnology/siaranMy/actions/workflows/dependency-review.yml)
+## SALURAN TV
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](siaranMy/preview.png)
 
