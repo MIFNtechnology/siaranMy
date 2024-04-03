@@ -2,14 +2,14 @@
 #EXT-X-VERSION:6
 
 # AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",NAME="audio_0",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/80/video-cif-stream-1-154088158247975.m4f"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",NAME="audio_0",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/80/video-cif-stream-1_init.mp4"
 
 # variants
 #EXT-X-STREAM-INF:BANDWIDTH=812000,AVERAGE-BANDWIDTH=738000,CODECS="mp4a.40.2,avc1.640015",RESOLUTION=480x270,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-4-154088156087975.m4f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-2_init.mp4
 #EXT-X-STREAM-INF:BANDWIDTH=1104000,AVERAGE-BANDWIDTH=1003000,CODECS="mp4a.40.2,avc1.64001E",RESOLUTION=640x360,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-4-154088155547975.m4f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-3_init.mp4
 #EXT-X-STREAM-INF:BANDWIDTH=2444000,AVERAGE-BANDWIDTH=2222000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=960x540,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-4-154088161487975.m4f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-4_init.mp4
 #EXT-X-STREAM-INF:BANDWIDTH=3610000,AVERAGE-BANDWIDTH=3282000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-4-154088157707975.m4f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/155/video-cif-stream-5_init.mp4
