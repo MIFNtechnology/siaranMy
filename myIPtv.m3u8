@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRT
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Bernama/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
