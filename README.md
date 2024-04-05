@@ -15,7 +15,7 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png " alt="OkeyTv" width="60" />](https://mifntechnology.github.io/siaranMy/channels/TvOkey/TvOkey_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png" alt="Tv6" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv6/Tv6_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png" alt="DidikTv" width="40" />](https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/Ntv7_index.html)
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png" alt="8tv" width="40" />](https://mifntechnology.github.io/siaranMy/channels/8tv/index.html)
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png" alt="8tv" width="40" />](https://mifntechnology.github.io/siaranMy/channels/8tv/8tv_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png" alt="Tv9" width="40" />](https://mifntechnology.github.io/siaranMy/channels/Tv9/Tv9_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DramaSangat.png" alt="DramaSangat" width="50" />](https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.html)
 
