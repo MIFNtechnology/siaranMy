@@ -1,0 +1,40 @@
+<html>
+    <body>
+        <div style="width: 1000px; height: 700px; background: black;" id="player"></div>
+        	<script src="https://bradm.ax/build/202404/21/a6cc2f0a821657fddd3472c2fe43ac9ee8b7fc92/player.js" type="text/javascript" data-bs-parent-id="player" data-bs-variables="eyJkYXRhUHJvdmlkZXIiOnsic291cmNlIjpbeyJ1cmwiOiJodHRwczovL2xpdmUubWFuYTIubXkvVHZBbGhpanJhaC9pbmRleC5tM3U4P2F1dGhfa2V5PTE3MTM3MDQ3NjQtNjFmYTkxZmI4OTM0NGU3YjlhNjI5NGY0YzY0MGMyZDAtMC1mZjZkYmEzNThjMTgzM2YyMzk2NGE1Y2ZhODg5OWVmMiZ0b2tlbj0xNzEzNzA0NzY0LTYxZmE5MWZiODkzNDRlN2I5YTYyOTRmNGM2NDBjMmQwLTAtZmY2ZGJhMzU4YzE4MzNmMjM5NjRhNWNmYTg4OTllZjIifV0sInRpdGxlIjoiVHZBbGhpanJhaCIsImR1cmF0aW9uIjo3MzQuMDk3NDE1LCJzcGxhc2hJbWFnZXMiOlt7InVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NSUZOdGVjaG5vbG9neS9zaWFyYW5NeS9yYXcvbWFpbi9sb2dvL1R2QWxoaWpyYWgucG5nIn1dLCJpZCI6IlR2QWxoaWpyYWhfbGl2ZVN0cmVhbSJ9fQ==">
+            var config = {
+            	clientToken: "6yR6ccm~m!Dla6Gc6~RanDXmggfQGc4~zaODPm"
+                dataProvider: {
+                    source: [
+                        { url: "https://raw.githubusercontent.con/MIFNtechnology/siaranMy/main/channels/TvAlhijrah/index.m3u8" }
+                    ]
+                }
+            };
+
+            /** find player container in html DOM tree. */
+            var element = document.getElementById("player");
+
+            /** create player */
+            var player = window.bradmax.player.create(element, config);
+
+            /** get javascript api */
+            var jsapi;
+
+            /** player version >= v2.14.285 */
+            if (player.hasOwnProperty('api'))
+                jsapi = player.api;
+
+            /** player version < v2.14.285 */
+            if (jsapi === null)
+                jsapi = player.modules.JavascriptApi;
+
+            /** get destroy player api */
+            var destroyPlayer = window.bradmax.player.destroy;
+
+            /** handle player close event */
+            jsapi.on("close", function() {
+                destroyPlayer(player);
+            });
+        </script>
+    </body>
+</html>
