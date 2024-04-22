@@ -1,3 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
-https://hls.rastream.com:443/ikim-ikimfm.web.hls/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=47000,CODECS="mp4a.40.5"
+https://hls.rastream.com:443/ikim-ikimfm-new.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_12014814_ECt67ru1_MTAzLjIxLjgxLjM6ODA!_0000004SLtQ&downloadSessionID=0
