@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
-https://hls.rastream.com:443/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_7436599_QpVjT8Hd_MTAzLjIxLjgxLjM6ODA!_0000002PIUI&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIMfm_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDkyMjIyNTksImV4cCI6MTcwOTMwODY1OX0.vuPkrdmj7cYW7wOdwS6qavc2jcM01C8eUCim5i2rs_I&lan=%5B%22ms%22%5D&setLanguage=true
+https://hls.rastream.com:443/ikim-ikimfm.web.hls/playlist.m3u8
