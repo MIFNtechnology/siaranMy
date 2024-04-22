@@ -40,11 +40,12 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/NasionalFm/nasional_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" width="40" />](https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/klasik_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/SinarFm/sinar_index.html)
+
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html)
-
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="bestfm" width="50" />](https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/IkimFm/ikim_index.html)
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html)
 
 ## CARA GUNA
 
