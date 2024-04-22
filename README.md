@@ -2,17 +2,13 @@
 
 <strong> SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP). </strong>
 
-
 [![pages-build-deployment](https://github.com/MIFNtechnology/siaranMy/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/MIFNtechnology/siaranMy/actions/workflows/pages/pages-build-deployment)
 
-----------
-
-## SALURAN TV
+## SALURAN TV & RADIO
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](siaranMy/preview.png)
 
-| TV |
-|----|
+<strong>__TV__</strong>
 
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html)
@@ -33,9 +29,7 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanRakyat" width="60" />](https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/DewanRakyat_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanNegara" width="60" />](https://mifntechnology.github.io/siaranMy/channels/DewanNegara/DewanNegara_index.html)
 
-| RADIO |
-|-------|
-
+<strong> RADIO </strong>
 
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html)
@@ -53,14 +47,12 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/IkimFm/ikim_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html)
 
-------------
-
 ### CARA GUNA
 
-<strong> (STREAM DI LAMAN WEB)
+<strong> (STREAM DI LAMAN WEB) </strong>
 * KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.
 
-(STREAM DI IPTV PLAYER)
+<strong> (STREAM DI IPTV PLAYER) </strong>
 * JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
 1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
 2. KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK 'NEW M3U PLAYLIST'.
@@ -73,7 +65,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 
 
 #### PAUTAN EPG
-SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER
+<strong> SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER </strong>
 |RTM EPG|
 |--|
 ~~~
