@@ -6,8 +6,8 @@
 
 [![MIFN](https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png)](siaranMy/preview.png)
 
-| TV |
-|--|
+|TV|
+|-|
 
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" width="60" />](https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html)
@@ -28,33 +28,37 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanRakyat" width="60" />](https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/DewanRakyat_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanNegara" width="60" />](https://mifntechnology.github.io/siaranMy/channels/DewanNegara/DewanNegara_index.html)
 
-| RADIO |
-|--|
+|RADIO|
+|-|
 
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html)
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" width="40" />](https://mifntechnology.github.io/siaranMy/radio/Era/era_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" alt="FlyFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/FlyFm/fly_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" alt="HotFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/HotFm/hot_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/HitzFm/hitz_index.html)
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/NasionalFm/nasional_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" width="40" />](https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/klasik_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/SinarFm/sinar_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html)
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html)
 
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="bestfm" width="50" />](https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html)
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](https://mifntechnology.github.io/siaranMy/radio/IkimFm/ikim_index.html)
 
 ## CARA GUNA
- JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
 
+(STREAM DI LAMAN WEB)
+* KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.
+
+(STREAM DI IPTV PLAYER)
+* JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
 1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
 2. KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK 'NEW M3U PLAYLIST'.
 3. MASUKKAN NAMA & PAUTAN M3U/M3U8.
 4. SALIN DAN ISI PAUTAN 'URL' KE IPTV PLAYER.
 ~~~
-https://mifntwchnology.github.io/siaranMy/myIPtv.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 ~~~
 6. KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
 
