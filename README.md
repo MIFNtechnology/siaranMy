@@ -65,14 +65,14 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 
 
 #### PAUTAN EPG
-<strong> SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER </strong>
-|RTM EPG|
-|--|
+SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER
+
+<strong> RTM EPG </strong>
 ~~~
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml 
+https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 ~~~
-|ASTRO EPG|
-|--|
+
+<strong> ASTRO EPG </strong>
 ~~~
  https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 ~~~
