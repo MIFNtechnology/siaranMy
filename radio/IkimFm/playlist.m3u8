@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=47000,CODECS="mp4a.40.5"
-https://hls.rastream.com:443/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_12016450_shUG4IN5_MTAzLjIxLjgxLjM6ODA!_0000004SNbV&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIMfm_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MTM4MDMwNDUsImV4cCI6MTcxMzg4OTQ0NX0.06LuDUcTZyoufmYyEEHIxp473lJIhdBDc2qN8JqRBBU&lan=%5B%22ms%22%5D&setLanguage=true
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIMfm_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MTQwMDMxMzAsImV4cCI6MTcxNDA4OTUzMH0.1NPoCSfOXy6xSOJ2IoT__x9ViJL8ip0Pf-5AGsuwOto&lan=%5B%22ms%22%5D&setLanguage=true
