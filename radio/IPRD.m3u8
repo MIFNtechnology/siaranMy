@@ -35,3 +35,9 @@ https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
+
+#EXTINF:-1 tvg-group="radio" tvg-id="8Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm
+https://mediaprima.rastream.com/mediaprima-onefm
