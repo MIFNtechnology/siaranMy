@@ -87,9 +87,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aa
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Ikim Fm" tvg-name="IkimFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/IkimFm.png",IkimFm
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIMfm_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MTQwMDMxMzAsImV4cCI6MTcxNDA4OTUzMH0.1NPoCSfOXy6xSOJ2IoT__x9ViJL8ip0Pf-5AGsuwOto&lan=%5B%22ms%22%5D&setLanguage=true
-
 #EXTINF:-1 tvg-group="radio" tvg-id="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
 
