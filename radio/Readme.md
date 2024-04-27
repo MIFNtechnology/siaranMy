@@ -10,7 +10,8 @@ FREE IPRD
 | radio | Hitz Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" width="40" />](logo/HitzFm.png)|| radio | Nasional Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" width="40" />](logo/NasionalFm.png)|
 | radio | Radio Klasik | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" width="40" />](logo/RadioKlasik.png)|| radio | Sinar Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" width="40" />](logo/SinarFm.png)|
 | radio | Suria Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" alt="Suria" width="40" />](logo/Suria.png)|| radio | Ria Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="RiaFm" width="45" />](logo/RiaFm.png)|
-| radio | Ikim Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](logo/IkimFm.png)|
+| radio | Ikim Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](logo/IkimFm.png)|| radio | Asyik Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AsyikFm.png" alt="AsyikFm" width="40" />](logo/AsyikFm.png)|
+| radio | 8 Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="8Fm" width="40" />](logo/8Fm.png)|
 
 ## USAGE
 * M3U8
