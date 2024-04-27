@@ -69,10 +69,13 @@ https://mifntechnology.github.io/siaranMy/radio/SuriaFm/suria_index.html
 ~~~
 https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html
 ~~~
-[IkimFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" alt="IkimFm" width="40" />](logo/IkimFm.png)
+[AsyikFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AsyikFm.png" alt="IkimFm" width="40" />](logo/AsyikFm.png)
 ~~~
-https://mifntechnology.github.io/siaranMy/radio/IkimFm/ikim_index.html
+https://mifntechnology.github.io/siaranMy/radio/AsyikFm/asyik_index.html
 ~~~
-
+[8Fm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="8Fm" width="40" />](logo/8Fm.png)
+~~~
+https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html
+~~~
 
 
