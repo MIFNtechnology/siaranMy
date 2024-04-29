@@ -1,11 +1,15 @@
-
 # siaranMy/myIPtv
 
  **SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).**
+ 
+-----------
 
 ## **SALURAN TV & RADIO**
 
-[<img align="centre" witdh="15" height="500" src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" />](siaranMy/preview.png)
+| **myIPtv** |
+|--|
+|[<img align="centre" witdh="15" height="500" src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" />](siaranMy/preview.png)|
+| *my own* **Kaitou_E** |
 
 ### *SALURAN TV*
 
@@ -31,36 +35,60 @@
 |[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" align="centre" style="border:3px solid black" width="125" />](https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html)|[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RiaFm.png" alt="riafm" align="centre" style="border:3px solid black"  width="125" />](https://mifntechnology.github.io/siaranMy/radio/RiaFm/ria_index.html)|[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AsyikFm.png" alt="AsyikFm" align="centre" style="border:3px solid black"  width="125" />](https://mifntechnology.github.io/siaranMy/radio/AsyikFm/asyik_index.html)|[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8Fm.png" alt="IkimFm" align="centre" style="border:3px solid black"  width="125" height="70" />](https://mifntechnology.github.io/siaranMy/radio/8Fm/8_index.html)|
 |**BULETINFM**|**RIAFM**|**ASYIKFM**|**8FM**||
 
-### CARA GUNA
+-----------
+
+## **CARA GUNA**
 
 **(STREAM DI LAMAN WEB)**
 * KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.
+*  *SALIN PAUTAN `URL` KE  INTERNET BROWSER.*
+*  ~~~
+   https://mifntechnology.github.io/siaranMy/
+   ~~~
 
 **(STREAM DI IPTV PLAYER)**
 * JIKA ADA SALURAN BERMASALAH,SILA 'UPDATE PLAYLIST'.
 1. MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.
 2. KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK 'NEW M3U PLAYLIST'.
 3. MASUKKAN NAMA & PAUTAN M3U/M3U8.
-4. SALIN DAN ISI PAUTAN 'URL' KE IPTV PLAYER.
-~~~
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
-~~~
+4. *SALIN DAN ISI PAUTAN `URL` KE IPTV PLAYER.*
+5. ~~~
+   https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
+   ~~~
 6. KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.
 
 
-#### **PAUTAN EPG**
-SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER
+## **PAUTAN EPG**
+* *SALIN DAN ISI PAUTAN 'URL' KE TV GUIDE IPTV PLAYER*
 
 *RTM EPG*
-~~~
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-~~~
+* ~~~
+  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+  ~~~
 
 *ASTRO EPG*
-~~~
- https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
-~~~
+* ~~~
+   https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+  ~~~
+
 ------------
+
+## *PENGHARGAAN*
+
+* *RIBUAN TERIMA KASIH KEPADA **[GITHUB](https://github.com)**,KERANA TELAH MEMBUKA RANGKAIAN YANG BOLEH KITA GUNAKAN SECARA PERCUMA.* 🥰
+
+-------------
+
+## **SYARAT & TERMA**
+
+  * **SALURAN TV & RADIO PROTOKOL IP INI ADALAH PERCUMA.SESIAPA SAHAJA BOLEH MENGGUNAKANNYA.DENGAN SYARAT,TIDAK MENJUALNYA PADA PENGGUNA LAIN.**
+  * **SAYA BINA SALURAN INI UNTUK KEGUNAAN SAYA DAN YANG INGIN MENGGUNAKANNYA.SALURAN INI BUKAN UNTUL DIJUAL.SAYA MENGGUNAKAN SALURAN GITHUB INI ADALAH SECARA PERCUMA,DAN SAYA KONGSIKAN *IA* SECARA PERCUMA JUGA.IA TIDAK MEMBERI SEBARANG KEUNTUNGAN KEPADA SAYA.**
+  * **TIDAK ADA SEBARANG GANTIRUGI DARI SAYA KEPADA PENGGUNA!**
+
+ *GUNAKANLAH,..SEMOGA BERMANFAAT UNTUK KITA.🤲😘*
+ 
+-------------
+-------------
 
 |IKLAN|
 |--|
