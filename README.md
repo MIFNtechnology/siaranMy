@@ -5,7 +5,7 @@
 
 ## **SALURAN TV & RADIO**
 
-[<img align="centre" witdh="50" height="500" src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" />](siaranMy/preview.png)
+[<img align="centre" witdh="15" height="500" src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" />](siaranMy/preview.png)
 
 ### *SALURAN TV*
 
