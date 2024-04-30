@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1240000,BANDWIDTH=1550000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.4d001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2500000,BANDWIDTH=3120000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.mana2.my/TvAlhijrah/tracks-v2a1/mono.m3u8?token=
+https://live.mana2.my/TvAlhijrah/tracks-v2a1/mono.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3550000,BANDWIDTH=4430000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=
+https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8
