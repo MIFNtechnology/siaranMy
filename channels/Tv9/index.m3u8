@@ -18,8 +18,8 @@ https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c910
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.cmaf-video=4800000.m3u8
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=88000,CODECS="avc1.640015",RESOLUTION=480x270,VIDEO-RANGE=SDR,URI="https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.keyframes/cmaf-video=600000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=124000,CODECS="avc1.64001E",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI="https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.keyframes/cmaf-video=849984.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.64001F",RESOLUTION=960x540,VIDEO-RANGE=SDR,URI="https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.keyframes/cmaf-video=2000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.keyframes/cmaf-video=3000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=700000,CODECS="avc1.640028",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI="https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.keyframes/cmaf-video=4800000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=88000,CODECS="avc1.640015",RESOLUTION=480x270,VIDEO-RANGE=SDR,URI=".keyframes/cmaf-video=600000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=124000,CODECS="avc1.64001E",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI=".keyframes/cmaf-video=849984.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.64001F",RESOLUTION=960x540,VIDEO-RANGE=SDR,URI=".keyframes/cmaf-video=2000000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI=".keyframes/cmaf-video=3000000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=700000,CODECS="avc1.640028",RESOLUTION=1920x1080,VIDEO-RANGE=SDR,URI=".keyframes/cmaf-video=4800000.m3u8"
