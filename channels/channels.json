@@ -1,5 +1,4 @@
 [
-  //...
   {
     "id": "Tv1.my",
     "name": "RTM Tv1",
@@ -19,10 +18,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Tv2.my",
     "name": "Tv2",
@@ -42,10 +39,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Tv3.my",
     "name": "Tv3",
@@ -65,10 +60,8 @@
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "OkeyTv.my",
     "name": "OkeyTv",
@@ -88,10 +81,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Tvs.my",
     "name": "Tvs",
@@ -111,10 +102,8 @@
     "website": "https://www.tvsarawak.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Tv6.my",
     "name": "RTM Tv6",
@@ -134,10 +123,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Ntv7.my",
     "name": "Didik Tv KPM",
@@ -157,10 +144,8 @@
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "8tv.my",
     "name": "8tv",
@@ -180,10 +165,8 @@
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Tv9.my",
     "name": "Tv9",
@@ -203,10 +186,8 @@
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "DramaSangat.my",
     "name": "DramaSangat",
@@ -226,10 +207,8 @@
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DramaSangat.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "BeritaRtm.my",
     "name": "Berita Rtm",
@@ -249,10 +228,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "SukanRtm.my",
     "name": "Sukan Rtm",
@@ -272,10 +249,8 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "TvIkim.my",
     "name": "TvIkim",
@@ -295,10 +270,8 @@
     "website": "https://www.tvikim.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "AstroAwani.my",
     "name": "Astro Awani",
@@ -318,10 +291,8 @@
     "website": "https://www.astroawani.com/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png""
   }
-  //...
 ]
 [
-  //...
   {
     "id": "Bernama.my",
     "name": "Bernama",
@@ -341,5 +312,4 @@
     "website": "https://www.bernama.com/tv/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png""
   }
-  //...
 ]
