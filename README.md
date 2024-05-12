@@ -8,7 +8,7 @@
 
 <h2 id="saluran-tv--radio"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
-<table>
+<table style="background-color:#0D006B">
   <thead>
     <tr>
       <th><strong>myIPtv</strong></th>
@@ -26,7 +26,7 @@
 
 <h3 id="saluran-tv"><em>SALURAN TV</em></h3>
 
-<table>
+<table style="background-color:#0D006B">
   <thead>
     <tr>
       <th> </th>
@@ -98,7 +98,7 @@
 
 <h3 id="saluran-radio-malaysia--singapura"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
 
-<table>
+<table style="background-color:#0D006B">
   <thead>
     <tr>
       <th> </th>
@@ -163,7 +163,7 @@
   <li>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</li>
   <li><em>SALIN PAUTAN <code class="language-plaintext highlighter-rouge">URL</code> KE  INTERNET BROWSER.</em></li>
   <li>
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
+    <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -175,9 +175,9 @@
       <li>MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.</li>
       <li>KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK ‘NEW M3U PLAYLIST’.</li>
       <li>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</li>
-      <li><em>SALIN DAN ISI PAUTAN <code class="language-plaintext highlighter-rouge">URL</code> KE IPTV PLAYER.</em></li>
+      <li><em>SALIN DAN ISI PAUTAN <code class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF">URL</code> KE IPTV PLAYER.</em></li>
       <li>
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
+        <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 </code></pre></div>        </div>
       </li>
       <li>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</li>
@@ -193,7 +193,7 @@
 <p><em>RTM EPG</em></p>
 <ul>
   <li>
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+    <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -229,7 +229,7 @@
 <hr />
 <hr />
 
-<table>
+<table style="background-color:#0D006B">
   <thead>
     <tr>
       <th>IKLAN</th>
