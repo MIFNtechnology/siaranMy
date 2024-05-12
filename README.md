@@ -9,13 +9,13 @@
 
 <h2 id="saluran-tv--radio"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
-<table style="background-color:#0D006B">
+<table>
   <thead>
     <tr>
       <th><strong>myIPtv</strong></th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="background-color:#0D006B">
     <tr>
       <td><a  href="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
     </tr>
@@ -27,7 +27,7 @@
 
 <h3 id="saluran-tv"><em>SALURAN TV</em></h3>
 
-<table style="background-color:#0D006B">
+<table>
   <thead>
     <tr>
       <th> </th>
@@ -37,7 +37,7 @@
       <th> </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="background-color:#0D006B">
     <tr>
       <td><a href="https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
       <td><a href="https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
@@ -99,7 +99,7 @@
 
 <h3 id="saluran-radio-malaysia--singapura"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
 
-<table style="background-color:#0D006B">
+<table>
   <thead>
     <tr>
       <th> </th>
@@ -109,7 +109,7 @@
       <th> </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="background-color:#0D006B">
     <tr>
       <td><a href="https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
       <td><a href="https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
@@ -164,7 +164,7 @@
   <li>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</li>
   <li><em>SALIN PAUTAN <code class="language-plaintext highlighter-rouge">URL</code> KE  INTERNET BROWSER.</em></li>
   <li>
-    <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
+    <div class="language-plaintext highlighter-rouge" style="background-color:#3A3A3A"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -178,7 +178,7 @@
       <li>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</li>
       <li><em>SALIN DAN ISI PAUTAN <code class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF">URL</code> KE IPTV PLAYER.</em></li>
       <li>
-        <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
+        <div class="language-plaintext highlighter-rouge" style="background-color:#3A3A3A"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 </code></pre></div>        </div>
       </li>
       <li>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</li>
@@ -194,7 +194,7 @@
 <p><em>RTM EPG</em></p>
 <ul>
   <li>
-    <div class="language-plaintext highlighter-rouge" style="background-color:#FFFFFF"><div class="highlight"><pre class="highlight"><code>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+    <div class="language-plaintext highlighter-rouge" style="background-color:#3A3A3A"><div class="highlight"><pre class="highlight"><code>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -202,7 +202,7 @@
 <p><em>ASTRO EPG</em></p>
 <ul>
   <li>
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+    <div class="language-plaintext highlighter-rouge" style="background-color:#3A3A3A"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -230,13 +230,13 @@
 <hr />
 <hr />
 
-<table style="background-color:#0D006B">
+<table>
   <thead>
     <tr>
       <th>IKLAN</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="background-color:#0D006B">
     <tr>
       <td>SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.SAYA CUMA AMBIL KERJA KECILAN SHJ.SUDI²LAH LAWAT KE LAMAN MUKA BUKU SAYA ,</td>
     </tr>
