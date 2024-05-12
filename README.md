@@ -5,17 +5,16 @@
       
 <p><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
-<hr />
 
 <h2 id="saluran-tv--radio"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
-<table>
-  <thead align="center" bgcolor="#0D006B">
+<table style="height:50px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0D006B">
+  <thead>
     <tr>
       <th><strong>myIPtv</strong></th>
     </tr>
   </thead>
-  <tbody align="center" bgcolor="#0D006B">
+  <tbody>
     <tr>
       <td><a  href="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
     </tr>
@@ -27,8 +26,8 @@
 
 <h3 id="saluran-tv"><em>SALURAN TV</em></h3>
 
-<table>
-  <thead align="center" bgcolor="#0D006B">
+<table style="height:50px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0D006B">
+  <thead>
     <tr>
       <th> </th>
       <th> </th>
@@ -37,7 +36,7 @@
       <th> </th>
     </tr>
   </thead>
-  <tbody align="center" bgcolor="#0D006B">
+  <tbody>
     <tr>
       <td><a href="https://mifntechnology.github.io/siaranMy/channels/Tv1/Tv1_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png" alt="Tv1" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
       <td><a href="https://mifntechnology.github.io/siaranMy/channels/Tv2/Tv2_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png" alt="Tv2" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
@@ -99,8 +98,8 @@
 
 <h3 id="saluran-radio-malaysia--singapura"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
 
-<table>
-  <thead align="center" bgcolor="#0D006B">
+<table style="height:50px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0D006B">
+  <thead>
     <tr>
       <th> </th>
       <th> </th>
@@ -109,7 +108,7 @@
       <th> </th>
     </tr>
   </thead>
-  <tbody align="center" bgcolor="#0D006B">
+  <tbody>
     <tr>
       <td><a href="https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
       <td><a href="https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html"><img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" align="centre" style="border:3px solid black" width="125" height="70" /></a></td>
@@ -155,7 +154,6 @@
   </tbody>
 </table>
 
-<hr />
 
 <h2 id="cara-guna"><strong>CARA GUNA</strong></h2>
 
@@ -164,7 +162,7 @@
   <li>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</li>
   <li><em>SALIN PAUTAN <code class="language-plaintext highlighter-rouge">URL</code> KE  INTERNET BROWSER.</em></li>
   <li>
-    <div class="language-plaintext highlighter-rouge" align="center" bgcolor="#3A3A3A"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
+    <div class="language-plaintext highlighter-rouge"  bgcolor="#3A3A3A"><div class="highlight"><pre class="highlight"><code>https://mifntechnology.github.io/siaranMy/
 </code></pre></div>    </div>
   </li>
 </ul>
@@ -176,9 +174,9 @@
       <li>MUAT TURUN DAN PASANG APLIKASI IPTV PLAYER.</li>
       <li>KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK ‘NEW M3U PLAYLIST’.</li>
       <li>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</li>
-      <li><em>SALIN DAN ISI PAUTAN <code class="language-plaintext highlighter-rouge" align="center" bgcolor="#3A3A3A">URL</code> KE IPTV PLAYER.</em></li>
+      <li><em>SALIN DAN ISI PAUTAN <code class="language-plaintext highlighter-rouge"  bgcolor="#3A3A3A">URL</code> KE IPTV PLAYER.</em></li>
       <li>
-        <div class="language-plaintext highlighter-rouge" align="center" bgcolor="#3A3A3A"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
+        <div class="language-plaintext highlighter-rouge" bgcolor="#3A3A3A"><div class="highlight"><pre class="highlight"><code> https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8
 </code></pre></div>        </div>
       </li>
       <li>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</li>
@@ -207,7 +205,6 @@
   </li>
 </ul>
 
-<hr />
 
 <h2 id="penghargaan"><em>PENGHARGAAN</em></h2>
 
@@ -215,7 +212,6 @@
   <li><em>RIBUAN TERIMA KASIH KEPADA <strong><a href="https://github.com">GITHUB</a></strong>,KERANA TELAH MEMBUKA RANGKAIAN YANG BOLEH KITA GUNAKAN SECARA PERCUMA.</em> 🥰</li>
 </ul>
 
-<hr />
 
 <h2 id="syarat--terma"><strong>SYARAT &amp; TERMA</strong></h2>
 
@@ -230,13 +226,13 @@
 <hr />
 <hr />
 
-<table>
-  <thead align="center" bgcolor="#0D006B">
+<table style="height:50px;border-color: ping; border-width:thick; border-style:solid" bgcolor="#0D006B">
+  <thead>
     <tr>
       <th>IKLAN</th>
     </tr>
   </thead>
-  <tbody align="center" bgcolor="#0D006B">
+  <tbody>
     <tr>
       <td>SAYA ADA MEMBUAT KERJA² PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK FASA 1.KERJA² DILAKUKAN OLEH SAYA DAN KAWAN².BEROPERASI DI SEKITAR JOHOR BAHRU DAN KAWASAN BERHAMPIRAN.SAYA CUMA AMBIL KERJA KECILAN SHJ.SUDI²LAH LAWAT KE LAMAN MUKA BUKU SAYA ,</td>
     </tr>
