@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a  href="/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
+      <td><a  href="siaranMy/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
     </tr>
     <tr>
       <td><em>my own</em> <strong>Kaitou_E</strong></td>
