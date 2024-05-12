@@ -10,7 +10,7 @@
 <h2 id="saluran-tv--radio"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
 <table>
-  <thead>
+  <thead class="container-lg px-3 my-5 markdown-body" style="background-color:#0D006B">
     <tr>
       <th><strong>myIPtv</strong></th>
     </tr>
@@ -28,7 +28,7 @@
 <h3 id="saluran-tv"><em>SALURAN TV</em></h3>
 
 <table>
-  <thead>
+  <thead class="container-lg px-3 my-5 markdown-body" style="background-color:#0D006B">
     <tr>
       <th> </th>
       <th> </th>
@@ -100,7 +100,7 @@
 <h3 id="saluran-radio-malaysia--singapura"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
 
 <table>
-  <thead>
+  <thead class="container-lg px-3 my-5 markdown-body" style="background-color:#0D006B">
     <tr>
       <th> </th>
       <th> </th>
@@ -231,7 +231,7 @@
 <hr />
 
 <table>
-  <thead>
+  <thead class="container-lg px-3 my-5 markdown-body" style="background-color:#0D006B">
     <tr>
       <th>IKLAN</th>
     </tr>
