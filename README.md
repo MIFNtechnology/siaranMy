@@ -163,8 +163,8 @@
   <li style="color:white;font-size:20px;"><strong>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</strong></li>
   <li style="color:white;font-size:20px;"><em><strong>SALIN PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code><strong>KE  INTERNET BROWSER.</strong></em></li>
   <li style="color:black;font-size:20px;">
-    <input type="text" value="https://mifntechnology.github.io/siaranMy/" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://mifntechnology.github.io/siaranMy/</strong>
+</code></pre></div>    </div>
   </li>
 </ul>
 
@@ -177,8 +177,8 @@
       <li style="color:white;font-size:20px;"><strong>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</strong></li>
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
       <li style="color:black;font-size:20px;">
-        <<input type="text" value="https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8</strong>
+</code></pre></div>        </div>
       </li>
       <li style="color:white;font-size:20px;"><strong>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</strong></li>
     </ol>
@@ -193,16 +193,16 @@
 <p style="color:white;font-size:30px;"><em><strong>RTM EPG</strong></em></p>
 <ul>
   <li style="color:black;font-size:20px;">
-    <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml</strong>
+</code></pre></div>    </div>
   </li>
 </ul>
 
 <p style="color:white;font-size:30px;"><em><strong>ASTRO EPG</strong></em></p>
 <ul>
   <li style="color:black;font-size:20px;">
-    <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml</strong>
+</code></pre></div>    </div>
   </li>
 </ul>
 
@@ -211,7 +211,6 @@
 <ul>
   <li style="color:white;font-size:20px;"><em><strong>RIBUAN TERIMA KASIH KEPADA</strong> <strong><a href="https://github.com">GITHUB</a></strong><strong>,KERANA TELAH MEMBUKA RANGKAIAN YANG BOLEH KITA GUNAKAN SECARA PERCUMA.</strong></em> 🥰</li>
 </ul>
-
 
 <h2 id="syarat--terma" style="color:white;font-size:30px;" ><strong>SYARAT &amp; TERMA</strong></h2>
 
