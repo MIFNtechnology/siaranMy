@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">
+      
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>siaranMy/myIPtv | siaranMy</title>
@@ -24,6 +24,48 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/siaranMy/assets/css/style.css?v=d3a203ae8a95c8d910c1d00b44351d9afcde8bc4">
+    <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <style>
+        .copy-link {
+          --height: 36px;
+          
+          display: flex;
+          max-width: 250px;
+          }
+          
+          .copy-link-input {
+            flex-grow: 1;
+            padding: 0 8px;
+            font-size: 14px;
+            border: 1px solid "#cccccc";
+            border-right: none;
+            outline: none;
+            }
+            
+            .copy-link-input: hover {
+              background: "#eeeeee";
+              }
+              
+              .copy-link-button {
+                flex-shrink: 0;
+                width: var(--height) ;
+                height: var(--height) ;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: "#dddddd";
+                color: "#333333";
+                border: 1px solid "#cccccc";
+                cursor: pointer;
+                }
+                
+                .copy-lnk-button: hover {
+                  background-color: "#cccccc";
+                  }
+                  
+      </style>
+      
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -209,13 +251,37 @@
 <ul>
   <li style="color:white;font-size:20px;"><strong>KLIK PADA LOGO TV/RADIO DI LAMAN INI, UNTUK MENONTON/MENDENGAR TV/RADIO.</strong></li>
   <li style="color:white;font-size:20px;"><em><strong>SALIN PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code><strong>KE  INTERNET BROWSER.</strong></em></li>
-  <li style="color:black;font-size:20px;">
-    <input type="text" value="https://mifntechnology.github.io/siaranMy/" id="myInput"/>
-<button onclick="myFunction()">Copy text</button>
-  </li>
+    <div class="copy-link">
+     <input type="text" class="copy-link-input" value="https://mifntechnology.github.io/siaranMy/">
+     <button type="button" class="copy-link-button">
+       <span class="material-icons">content_copy</span>
+     </button>     
+   </div>
+   <script>
+       document.querySelectorAll(".copy-link") .forEach(copyLinkContainer => {
+       const inputField = copyLinkContainer.querySelector(".copy-link-input") ;
+       const copyButton = copyLinkContainer.querySelector(".copy-link-button");
+       
+              
+       inputField.addEventlistener("focus",  ( ) => inputField.select ( ) );
+       const text = inputField.value;
+       
+       copyButton.addEventlistener("select", (
+) => {
+         inputField.select (
+);
+         navigator.clipboarg.writeText (text);
+         
+         
+         inputField.value = "copied!" ;
+         setTimeout ( ( ) => inputField.value = text, 2000);
+         
+       } );
+     
+   </script>
 </ul>
 
-<p style="color:white;font-size:30px;"><strong>(STREAM DI IPTV PLAYER)</strong></p>
+ <p style="color:white;font-size:30px;"><strong>(STREAM DI IPTV PLAYER)</strong></p>
 <ul>
   <li style="color:white;font-size:20px;"><strong>JIKA ADA SALURAN BERMASALAH,SILA ‘UPDATE PLAYLIST’.</strong>
     <ol>
@@ -223,10 +289,34 @@
       <li style="color:white;font-size:20px;"><strong>KLIK SETTING (⏱️) , KLIK PLAYLIST , KLIK TAMBAH (+) , KLIK ‘NEW M3U PLAYLIST’.</strong></li>
       <li style="color:white;font-size:20px;"><strong>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</strong></li>
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
-      <li style="color:black;font-size:20px;">
-        <input type="text" value="https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8" id="myInput"/>
-<button onclick="myFunction()">Copy text</button>
-      </li>
+        <div class="copy-link">
+     <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8">
+     <button type="button" class="copy-link-button">
+       <span class="material-icons">content_copy</span>
+     </button>     
+   </div>
+   <script>
+       document.querySelectorAll(".copy-link") .forEach(copyLinkContainer => {
+       const inputField = copyLinkContainer.querySelector(".copy-link-input") ;
+       const copyButton = copyLinkContainer.querySelector(".copy-link-button");
+       
+              
+       inputField.addEventlistener("focus",  ( ) => inputField.select ( ) );
+       const text = inputField.value;
+       
+       copyButton.addEventlistener("select", (
+) => {
+         inputField.select (
+);
+         navigator.clipboarg.writeText (text);
+         
+         
+         inputField.value = "copied!" ;
+         setTimeout ( ( ) => inputField.value = text, 2000);
+         
+       } );
+     
+   </script>
       <li style="color:white;font-size:20px;"><strong>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</strong></li>
     </ol>
   </li>
@@ -239,26 +329,74 @@
 
 <p style="color:white;font-size:30px;"><em><strong>RTM EPG</strong></em></p>
 <ul>
-  <li style="color:black;font-size:20px;">
-    <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" id="myInput"/>
-<button onclick="myFunction()">Copy text</button>
-  </li>
+    <div class="copy-link">
+     <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml">
+     <button type="button" class="copy-link-button">
+       <span class="material-icons">content_copy</span>
+     </button>     
+   </div>
+   <script>
+       document.querySelectorAll(".copy-link") .forEach(copyLinkContainer => {
+       const inputField = copyLinkContainer.querySelector(".copy-link-input") ;
+       const copyButton = copyLinkContainer.querySelector(".copy-link-button");
+       
+              
+       inputField.addEventlistener("focus",  ( ) => inputField.select ( ) );
+       const text = inputField.value;
+       
+       copyButton.addEventlistener("select", (
+) => {
+         inputField.select (
+);
+         navigator.clipboarg.writeText (text);
+         
+         
+         inputField.value = "copied!" ;
+         setTimeout ( ( ) => inputField.value = text, 2000);
+         
+       } );
+     
+   </script>
 </ul>
 
 <p style="color:white;font-size:30px;"><em><strong>ASTRO EPG</strong></em></p>
 <ul>
-  <li style="color:black;font-size:20px;">
-    <input type="text" value="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" id="myInput"/>
-<button onclick="myFunction()">Copy text</button>
-  </li>
+    <div class="copy-link">
+     <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml">
+     <button type="button" class="copy-link-button">
+       <span class="material-icons">content_copy</span>
+     </button>     
+   </div>
+   <script>
+       document.querySelectorAll(".copy-link") .forEach(copyLinkContainer => {
+       const inputField = copyLinkContainer.querySelector(".copy-link-input") ;
+       const copyButton = copyLinkContainer.querySelector(".copy-link-button");
+       
+              
+       inputField.addEventlistener("focus",  ( ) => inputField.select ( ) );
+       const text = inputField.value;
+       
+       copyButton.addEventlistener("select", (
+) => {
+         inputField.select (
+);
+         navigator.clipboarg.writeText (text);
+         
+         
+         inputField.value = "copied!" ;
+         setTimeout ( ( ) => inputField.value = text, 2000);
+         
+       } );
+     
+   </script>
 </ul>
+
 
 <h2 id="penghargaan" style="color:white;font-size:30px;"><em><strong>PENGHARGAAN</strong></em></h2>
 
 <ul>
   <li style="color:white;font-size:20px;"><em><strong>RIBUAN TERIMA KASIH KEPADA</strong> <strong><a href="https://github.com">GITHUB</a></strong><strong>,KERANA TELAH MEMBUKA RANGKAIAN YANG BOLEH KITA GUNAKAN SECARA PERCUMA.</strong></em> 🥰</li>
 </ul>
-
 
 <h2 id="syarat--terma" style="color:white;font-size:30px;" ><strong>SYARAT &amp; TERMA</strong></h2>
 
