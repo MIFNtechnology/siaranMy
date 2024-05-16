@@ -253,7 +253,7 @@
   <li style="color:white;font-size:20px;"><em><strong>SALIN PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code><strong>KE  INTERNET BROWSER.</strong></em></li>
     <div class="copy-link">
      <input type="text" class="copy-link-input" value="https://mifntechnology.github.io/siaranMy/" readonly=" ">
-     <button type="button" class="copy-link-button">
+     <button onclick="myFunction(event)" type="button" class="copy-link-button">
        <span class="material-icons">content_copy</span>
      </button>     
    </div>
@@ -269,7 +269,7 @@
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
         <div class="copy-link">
      <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8" readonly=" ">
-     <button type="button" class="copy-link-button">
+     <button onclick="myFunction(event)" type="button" class="copy-link-button">
        <span class="material-icons">content_copy</span>
      </button>     
    </div>
@@ -287,7 +287,7 @@
 <ul>
     <div class="copy-link">
      <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" readonly=" ">
-     <button type="button" class="copy-link-button">
+     <button onclick="myFunction(event)" type="button" class="copy-link-button">
        <span class="material-icons">content_copy</span>
      </button>     
    </div>
@@ -297,12 +297,20 @@
 <ul>
     <div class="copy-link">
      <input type="text" class="copy-link-input" value="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" readonly=" ">
-     <button type="button" class="copy-link-button">
+     <button onclick="myFunction(event)" type="button" class="copy-link-button">
        <span class="material-icons">content_copy</span>
      </button>     
    </div>
 </ul>
-
+<script>
+  function myFunction(e) {
+  var copyText = e.target.previousElementSibling;
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the text: " + copyText.value);
+}
+</script>
 
 <h2 id="penghargaan" style="color:white;font-size:30px;"><em><strong>PENGHARGAAN</strong></em></h2>
 
