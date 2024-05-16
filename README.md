@@ -1,13 +1,13 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <link rel="stylesheet" href="https://mifntechnology.github.io/siaranMy/style.css">      
-      <h1 style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/siaranMy/" align="centre">siaranMy</a></h1>     
-      <h1 id="siaranmymyiptv" style="color:white;font-size:50px;">siaranMy/myIPtv</h1>
+      <h1 align="center" style="color:blue;font-size:50px;"><a href="https://mifntechnology.github.io/siaranMy/" align="centre">siaranMy</a></h1>     
+      <h1 align="center" id="siaranmymyiptv" style="color:white;font-size:50px;">siaranMy/myIPtv</h1>
 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
 
-<h2 id="saluran-tv--radio" style="color:white;font-size:30px;"><strong>SALURAN TV &amp; RADIO</strong></h2>
+<h2 align="center" id="saluran-tv--radio" style="color:white;font-size:30px;"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
 <table style="color:white;font-size:20px;">
   <thead>
@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="height:3px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><a href="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
+      <td align="center" style="height:3px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><a href="https://github.com/MIFNtechnology/siaranMy/raw/main/logo_mifn.png"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
     </tr>
     <tr>
       <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><em>my own</em> <strong>Kaitou_E</strong></td>
@@ -25,7 +25,7 @@
   </tbody>
 </table>
 
-<h3 id="saluran-tv" style="color:white;font-size:30px;"><em>SALURAN TV</em></h3>
+<h3 align="center" id="saluran-tv" style="color:white;font-size:30px;"><em>SALURAN TV</em></h3>
 
 <table style="color:white;font-size:20px;">
   <thead>
@@ -97,7 +97,7 @@
   </tbody>
 </table>
 
-<h3 id="saluran-radio-malaysia--singapura" style="color:white;font-size:30px;"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
+<h3 align="center" id="saluran-radio-malaysia--singapura" style="color:white;font-size:30px;"><em>SALURAN RADIO</em> (MALAYSIA &amp; SINGAPURA)</h3>
 
 <table style="color:white;font-size:20px;">
   <thead>
@@ -156,7 +156,7 @@
 </table>
 
 
-<h2 id="cara-guna" style="color:white;font-size:30px;"><strong>CARA GUNA</strong></h2>
+<h2 align="center" id="cara-guna" style="color:white;font-size:30px;"><strong>CARA GUNA</strong></h2>
 
 <p style="color:white;font-size:20px;"><strong>(STREAM DI LAMAN WEB)</strong></p>
 <ul>
@@ -185,7 +185,7 @@
   </li>
 </ul>
 
-<h2 id="pautan-epg" style="color:white;font-size:30px;"><strong>PAUTAN EPG</strong></h2>
+<h2 align="center" id="pautan-epg" style="color:white;font-size:30px;"><strong>PAUTAN EPG</strong></h2>
 <ul>
   <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN ‘URL’ KE TV GUIDE IPTV PLAYER</strong></em></li>
 </ul>
@@ -223,7 +223,7 @@
 <p style="color:white;font-size:20px;"><em><strong>GUNAKANLAH,..SEMOGA BERMANFAAT UNTUK KITA.</strong>🤲😘</em></p>
 
 
-<table align="centre">
+<table align="center">
   <thead>
     <tr>
       <th style="height:1px;border-color: red; border-width:thick; border-style:solid; color:white;font-size:20px;"bgcolor="#0051FF"><strong>IKLAN</strong></th>
