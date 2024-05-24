@@ -177,12 +177,12 @@
       <li style="color:white;font-size:20px;"><strong>MASUKKAN NAMA &amp; PAUTAN M3U/M3U8.</strong></li>
       <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN</strong> <code class="language-plaintext highlighter-rouge">URL</code> <strong>KE IPTV PLAYER.</strong></em></li>
       <li style="color:black;font-size:20px;">
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/myIPtv.m3u8</strong>
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://mifntechnology.github.io/siaranMy/myIPtv.m3u8</strong>
 </code></pre></div>        </div>
       </li>
       <li style="color:white;font-size:20px;"><strong>KLIK SAVE (✓) DAN PERGI KE MENU UTAMA..DAN SELAMAT MENONTON.</strong></li>
     </ol>
-  </li>
+  </li>b
 </ul>
 
 <h2 align="center" id="pautan-epg" style="color:white;font-size:30px;"><strong>PAUTAN EPG</strong></h2>
