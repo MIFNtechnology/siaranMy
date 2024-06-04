@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRT
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/BernamaTv.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/BernamaTv.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
-https://mifntechnology.github.io/YtM3u8/live/HotFm.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/HotFm.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Best Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
@@ -79,7 +79,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
-https://mifntechnology.github.io/YtM3u8/live/Suria.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/Suria.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
@@ -88,4 +88,4 @@ https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
 
 #EXTINF:-1 tvg-group="radio" tvg-id="8Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm
-https://mifntechnology.github.io/YtM3u8/live/8Fm.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/8Fm.m3u8
