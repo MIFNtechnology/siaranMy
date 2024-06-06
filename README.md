@@ -185,23 +185,14 @@
   </li>b
 </ul>
 
-<h2 align="center" id="pautan-epg" style="color:white;font-size:30px;"><strong>PAUTAN EPG</strong></h2>
+<h2 align="center" id="pautan-epg" style="color:white;font-size:30px;"><strong>TV GUIDE</strong></h2>
 <ul>
   <li style="color:white;font-size:20px;"><em><strong>SALIN DAN ISI PAUTAN ‘URL’ KE TV GUIDE IPTV PLAYER</strong></em></li>
 </ul>
 
-<p style="color:white;font-size:30px;"><em><strong>RTM EPG</strong></em></p>
 <ul>
   <li style="color:black;font-size:20px;">
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml</strong>
-</code></pre></div>    </div>
-  </li>
-</ul>
-
-<p style="color:white;font-size:30px;"><em><strong>ASTRO EPG</strong></em></p>
-<ul>
-  <li style="color:black;font-size:20px;">
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <strong>https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml</strong>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><strong>https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml</strong>
 </code></pre></div>    </div>
   </li>
 </ul>
