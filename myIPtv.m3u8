@@ -1,27 +1,27 @@
-#EXTM3U  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
+#EXTM3U  tvg-url="https://raw.githubusercontent.com/MIFNtechnology/epg2/main/epg.xml"
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Okey" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="DidikTvKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BeritaRTM
@@ -30,16 +30,16 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRT
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",Sukan RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="502.astro" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="BernamaTV" tvg-number="502" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/BernamaTv.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="122.astro" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS" tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TvIkim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="DewanRakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNeg
 #EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/HotFm.m3u8
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Best Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Johor Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Buletin Fm" tvg-name="BuletinFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",BuletinFm
