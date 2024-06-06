@@ -78,14 +78,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
 https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Suria" tvg-name="Suria" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="Suria" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/Suria.m3u8
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="Ria Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Ria 89.7 Fm" tvg-name="Ria 89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Asyik Fm" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Eight Fm" tvg-name="Eight Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm
+#EXTINF:-1 tvg-group="radio" tvg-id="8 Fm" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/8Fm.m3u8
