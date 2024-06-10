@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="HOTFM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
+#EXTINF:-1 tvg-group="radio" tvg-id="721" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/HotFm.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
@@ -87,5 +87,5 @@ https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 #EXTINF:-1 tvg-group="radio" tvg-id="Asyik Fm" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Eight  FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
+#EXTINF:-1 tvg-group="radio" tvg-id="724" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/8Fm.m3u8
