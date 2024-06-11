@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:172088823
-#EXTINF:10,title=" ",artist=" "
-https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088821.aac
-#EXTINF:10,title=" ",artist=" "
-https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088822.aac
-#EXTINF:10,title=" ",artist=" "
-https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088823.aac
+#EXTINF:10,
+https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088821.m3u8
+#EXTINF:10,
+https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088822.m3u8
+#EXTINF:10,
+https://n08.rcs.revma.com/fk5teqrdbhuvv/8_lq5mh4ap2iea02/main/172088823.m3u8
