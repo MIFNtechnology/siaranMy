@@ -60,19 +60,19 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 tvg-group="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="FLY" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
+#EXTINF:-1 tvg-group="radio" tvg-id="FLYFM" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
 https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 tvg-group="radio" tvg-id="HITZ" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
 https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
+#EXTINF:-1 tvg-group="radio" tvg-id="JOHOR" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
 https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
  
 #EXTINF:-1 tvg-group="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Radio Klasik" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
+#EXTINF:-1 tvg-group="radio" tvg-id="KLASIK" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
  
 #EXTINF:-1 tvg-group="radio" tvg-id="SINAR" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
