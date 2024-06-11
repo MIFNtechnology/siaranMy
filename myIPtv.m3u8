@@ -54,8 +54,8 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/HotF
 #EXTINF:-1 tvg-group="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",Best Fm
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Buletin  FM" tvg-name="Buletin Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",Buletin Fm
-https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-group="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png",Kool 101
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/Kool101.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
