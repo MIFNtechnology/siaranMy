@@ -1,0 +1,305 @@
+{
+    "channels": [
+        {
+            "id": "TV1",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TV1"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tv1.png"
+            }
+        },
+        {
+            "id": "TV2",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TV2"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tv2.png"
+            }
+        },
+        {
+            "id": "TV3",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TV3"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png"
+            }
+        },
+        {
+            "id": "OKEY",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Okey Tv"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png"
+            }
+        },
+        {
+            "id": "TV6",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TV6"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tv6.png"
+            }
+        },
+        {
+            "id": "DidikTVKPM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "DidikTv KPM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"
+            }
+        },
+        {
+            "id": "8TV",
+            "display_name": {
+                "@lang": "en",
+                "#text": "8TV"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/8tv.png"
+            }
+        },
+        {
+            "id": "TV9",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TV9"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png"
+            }
+        },
+        {
+            "id": "BERITARTM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "BERITA RTM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png"
+            }
+        },
+        {
+            "id": "TVSUKAN",
+            "display_name": {
+                "@lang": "en",
+                "#text": "SUKAN RTM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png"
+            }
+        },
+        {
+            "id": "BernamaTV",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Bernama TV"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Bernama.png"
+            }
+        },
+        {
+            "id": "TVS",
+            "display_name": {
+                "@lang": "en",
+                "#text": "TVS"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"
+            }
+        },
+        {
+            "id": "TVIKIM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Tv Ikim"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/TvIkim.png"
+            }
+        },
+        {
+            "id": "AstroAwani",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Astro Awani"
+            },
+            "icon": {
+                "@src": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png"
+            }
+        },
+        {
+            "id": "Dewan Rakyat",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Dewan Rakyat"
+            },
+            "icon": {
+                "@src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png"
+            }
+        },
+        {
+            "id": "Dewan Negara",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Dewan Negara"
+            },
+            "icon": {
+                "@src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png"
+            }
+        },
+        {
+            "id": "Hot FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Hot FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/HotFm.png"
+            }
+        },
+        {
+            "id": "Best FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Best FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/bestfm.png"
+            }
+        },
+        {
+            "id": "Kool FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Kool FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Kool101.png"
+            }
+        },
+        {
+            "id": "ERA",
+            "display_name": {
+                "@lang": "en",
+                "#text": "ERA"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Era.png"
+            }
+        },
+        {
+            "id": "Fly FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Fly FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/FlyFm.png"
+            }
+        },
+        {
+            "id": "Hitz FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Hitz FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/HitzFm.png"
+            }
+        },
+        {
+            "id": "Johor FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Johor FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/JohorFm.png"
+            }
+        },
+        {
+            "id": "NASFM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Nasional FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png"
+            }
+        },
+        {
+            "id": "Klasik FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Klasik FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png"
+            }
+        },
+        {
+            "id": "Sinar FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Sinar FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/SinarFm.png"
+            }
+        },
+        {
+            "id": "Suria FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Suria FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/Suria.png"
+            }
+        },
+        {
+            "id": "Ria FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Ria897Fm"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/RiaFm.png"
+            }
+        },
+        {
+            "id": "Asyik FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "Asyik FM"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png"
+            }
+        },
+        {
+            "id": "Eight FM",
+            "display_name": {
+                "@lang": "en",
+                "#text": "8Fm"
+            },
+            "icon": {
+                "@src": "https://mifntechnology.github.io/siaranMy/logo/8Fm.png"
+            }
+        }
+    ]
+}
+        
