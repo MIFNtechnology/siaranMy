@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRT
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="BernamaTV"  tvg-name="Bernama Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/BernamaTv.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS"  tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
