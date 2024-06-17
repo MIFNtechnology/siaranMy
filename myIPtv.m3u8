@@ -49,13 +49,13 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRak
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/HotFm.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/HotFm/live.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",Best Fm
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png",Kool 101
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/Kool101.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Kool101/live.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
@@ -79,7 +79,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/SuriaFm.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/SuriaFm/live.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
 https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
@@ -88,4 +88,4 @@ https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live/8Fm.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/8Fm/live.m3u8
