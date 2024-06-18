@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MEDIA-SEQUENCE:3
 #EXTINF:10,
 https://mediaprima.rastream.com/mediaprima-flyfm.aac
 #EXTINF:10
