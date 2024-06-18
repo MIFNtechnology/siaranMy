@@ -1,3 +1,14 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
-https://mediaprima.rastream.com/mediaprima-flyfm
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:4
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-flyfm/fileSequence1.ts
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-flyfm/fileSequence2.ts
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-flyfm/fileSequence3.ts
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-flyfm/fileSequence4.ts
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-flyfm/fileSequence5.ts
