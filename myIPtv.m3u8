@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/inde
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvAlhijrah.png",Al-Hijrah
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvAlhijrah/index.m3u8
+
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
