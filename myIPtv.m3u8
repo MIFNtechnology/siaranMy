@@ -76,7 +76,7 @@ https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
 https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
