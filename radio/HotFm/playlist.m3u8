@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=47000,CODECS="mp4a.40.5"
-https://mediaprima.rastream.com/mediaprima-hotfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_12338465_pMhB9KwP_MTAzLjIxLjgxLjM6ODA!_00000053qdn&downloadSessionID=0&listenerid=&playerid=HotFM_WebPlayer&setLanguage=true&lan=%5B%22ms%22%5D&awparams=companionads%3Atrue%3Bstationid%3Amediaprima-hotfm%3Btags%3Awebplayer%3Btags%3Ampawebplayer%3B&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTQyMTIwNjMsImlhdCI6MTcxNDEyNTY2Mywib2lkIjoibWVkaWFwcmltYSJ9.6AeSA8R7he1RgdRfp7iEecnZoyN9UnsupiqJeEFKphE
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:10
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:10
+https://mediaprima.rastream.com/mediaprima-hotfm
