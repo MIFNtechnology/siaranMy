@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=48000,CODECS="mp4a.40.5"
-https://28103.live.streamtheworld.com/ASYIK_FMAAC.aac
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
+#EXTINF:10
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
+#EXTINF:10
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
