@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
+#EXTINF:10
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
+#EXTINF:10
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
