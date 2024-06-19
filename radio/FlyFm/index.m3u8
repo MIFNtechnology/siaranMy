@@ -2,7 +2,7 @@
 #EXT-X-VERSION:6
 
 # Audio
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="AUDIO",NAME="English",LANGUAGE="en",URI="https://mifntechnology.github.io/siaranMy/radio/FlyFm/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="AUDIO",NAME="English",LANGUAGE="en",URI="https://mediaprima.rastream.com/mediaprima-flyfm"
 
 # Video
 #EXT-X-STREAM-INF:BANDWIDTH=4364913,AVERAGE-BANDWIDTH=4277405,CODECS="avc1.4D4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="AUDIO",FRAME-RATE=24
