@@ -6,27 +6,22 @@
 
 <p style="color:white;font-size:30px;"><strong>SALURAN IP myIPtv MALAYSIA PERCUMA.televisyen internet protocol (IPTV) ialah penghantaran kandungan televisyen melalui rangkaian internet protocol (IP).</strong></p>
 
-
 <h2 align="center" id="saluran-tv--radio" style="color:white;font-size:30px;"><strong>SALURAN TV &amp; RADIO</strong></h2>
 
-<table style="color:white;font-size:20px;">
-  <thead>
-    <tr>
-      <th style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><strong>myIPtv</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="height:3px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB">
-      <video autoplay muted loop align="centre" witdh="15" height="500">
-      <source src="https://mifntechnology.github.io/siaranMy/mifn_logo.mp4" type="video/mp4">
-      </video>
-      </a></td>
-    </tr>
-    <tr>
-      <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><em>my own</em> <strong>Kaitou_E</strong></td>
-    </tr>
-  </tbody>
+<table>
+ <thead>
+  <tr>
+   <th>
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 <h3 align="center" id="saluran-tv" style="color:white;font-size:30px;"><em>SALURAN TV</em></h3>
