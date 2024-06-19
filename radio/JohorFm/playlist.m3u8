@@ -1,9 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:10
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:10
+#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
 https://22243.live.streamtheworld.com/JOHOR_FM.mp3
