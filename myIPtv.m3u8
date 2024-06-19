@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Kool101/l
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
-https://mediaprima.rastream.com/mediaprima-flyfm
+https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
 https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
