@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="avc1.mp4a.40.2"
-https://19183.live.streamtheworld.com/RIA897FM_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=5758f309-77a3-4dae-ff6f-d2baffec2a43
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+#EXTINF:10
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+#EXTINF:10
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
