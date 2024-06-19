@@ -70,7 +70,7 @@ https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
-https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
+https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8 
  
 #EXTINF:-1 tvg-group="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
