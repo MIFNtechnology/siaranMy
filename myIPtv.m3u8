@@ -85,7 +85,7 @@ https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/SuriaFm/live.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
 
 #EXTINF:-1 tvg-group="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
