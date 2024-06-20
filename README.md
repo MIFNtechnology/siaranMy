@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="height:3px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><a href="https://mifntechnology.github.io/siaranMy/mifn_logo.mp4"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
+      <td style="height:3px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><a href="https://mifntechnology.github.io/siaranMy/mifn_logo_mp4.html"><img align="centre" witdh="15" height="500" src="https://mifntechnology.github.io/siaranMy/logo_mifn.png" alt="MIFN myIPtv" style="border:2px solid red" /></a></td>
     </tr>
     <tr>
       <td style="height:1px;border-color: red; border-width:thick; border-style:solid" bgcolor="#0023EB"><em>my own</em> <strong>Kaitou_E</strong></td>
