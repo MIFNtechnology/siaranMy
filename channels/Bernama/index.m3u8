@@ -1,9 +1,11 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
+#EXT-X-MEDIA:URI="subtitle/lang_en/subtitle_index.m3u8",TYPE=SUBTITLES,GROUP-ID="subtitles",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=893752,AVERAGE-BANDWIDTH=560289,RESOLUTION=854x480,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles"
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
-#EXTINF:10
+#EXT-X-STREAM-INF:BANDWIDTH=1494976,AVERAGE-BANDWIDTH=891779,RESOLUTION=1280x720,CODECS="avc1.640028,mp4a.40.2",SUBTITLES="subtitles"
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
-#EXTINF:10
+#EXT-X-STREAM-INF:BANDWIDTH=3262928,AVERAGE-BANDWIDTH=1894009,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",SUBTITLES="subtitles"
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=161304,RESOLUTION=854x480,CODECS="avc1.4D401F",URI="https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=241392,RESOLUTION=1280x720,CODECS="avc1.640028",URI="https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=532416,RESOLUTION=1920x1080,CODECS="avc1.640028",URI="https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8"
