@@ -45,6 +45,9 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/i
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
+
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8
 
