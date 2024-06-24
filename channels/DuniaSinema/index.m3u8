@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:287796
+#EXT-X-TARGETDURATION:6
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:6.000,
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H-0-287796.ts
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:6.000,
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H-0-287797.ts
+#EXT-X-PROGRAM-DATE-TIME:
+#EXTINF:6.000,
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H-0-287798.ts
