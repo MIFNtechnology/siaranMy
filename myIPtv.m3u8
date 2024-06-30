@@ -1,59 +1,59 @@
 #EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvAlhijrah.png",Al-Hijrah
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvAlhijrah/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="BernamaTV"  tvg-name="Bernama Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS"  tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/HotFm/live.m3u8
@@ -74,7 +74,7 @@ https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
 https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8
