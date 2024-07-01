@@ -4,13 +4,13 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/80/video-cif-stream-1-154786811917905.m4f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/80/video-cif-stream-1_init.mp4
 #EXTINF:10.0,
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-4-154787311417905.m4f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-4_init.mp4
 #EXTINF:10.0,
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-5-154787311417905.m4f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-5_init.mp4
 #EXTINF:10.0,
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-6-154787311417905.m4f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/164/video-cif-stream-6_init.mp4
 
 // List of files between 4 and 120 go here.
 
