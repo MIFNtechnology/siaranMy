@@ -22,7 +22,8 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
@@ -51,6 +52,15 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 tvg-group="kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Nickelodeon.png",Nickelodeon
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
+
+#EXTINF:-1 tvg-group="kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidiDanFriends.png",DidiDanFriends
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DidiDanFriends/live.m3u8
+
+#EXTINF:-1 tvg-group="kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DisneyJr.png",DisneyJr
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
  
 #EXTINF:-1 tvg-group="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/HotFm/live.m3u8
