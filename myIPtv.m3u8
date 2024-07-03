@@ -53,8 +53,8 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
-#EXTINF:-1 tvg-group="kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Nickelodeon.png",Nickelodeon
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
+#EXTINF:-1 tvg-group="kids" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-group="kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidiDanFriends.png",DidiDanFriends
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DidiDanFriends/live.m3u8
