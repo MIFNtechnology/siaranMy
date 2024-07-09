@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:10
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:10
-https://mediaprima.rastream.com/mediaprima-onefm
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8fm/playlist_360.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8fm/playlist_480.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8fm/playlist_540.m3u8
