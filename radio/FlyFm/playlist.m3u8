@@ -1,9 +1,9 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
-https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:10,
-https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:10,
-https://mediaprima.rastream.com/mediaprima-flyfm
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=700000
+https://mediaprima.rastream.com/mediaprima-flyfm/240_out.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
+https://mediaprima.rastream.com/mediaprima-flyfm/360_out.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://mediaprima.rastream.com/mediaprima-flyfm/480_out.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://mediaprima.rastream.com/mediaprima-flyfm/540_out.m3u8
