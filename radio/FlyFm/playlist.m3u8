@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/_360.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_360.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/_480.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_480.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/_540.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_540.m3u8
+
