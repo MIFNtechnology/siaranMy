@@ -1,3 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1568726,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://mediaprima.rastream.com/mediaprima-flyfm
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
