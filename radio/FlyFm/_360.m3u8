@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
-https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:10,
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:10,
+https://mediaprima.rastream.com/mediaprima-flyfm
