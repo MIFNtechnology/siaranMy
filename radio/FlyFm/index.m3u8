@@ -1,10 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1209862,CODECS="mp4a.40.5",AUDIO="aac"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="mp4a.40.5",AUDIO="aac"
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_360.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=1568726,CODECS="mp4a.40.5",AUDIO="aac"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="mp4a.40.5",AUDIO="aac"
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_480.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=4370178,CODECS="mp4a.40.5",AUDIO="aac"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="mp4a.40.5",AUDIO="aac"
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/FlyFm/_540.m3u8
 
