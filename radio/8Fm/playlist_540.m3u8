@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MEDIA-SEQUENCE:1003
 #EXTINF:10.0,
-https://mediaprima.rastream.com/mediaprima-onefm
+https://mediaprima.rastream.com/mediaprima-onefm-1000.ts
 #EXTINF:8.0,
-https://mediaprima.rastream.com/mediaprima-onefm
+https://mediaprima.rastream.com/mediaprima-onefm-1001.ts
 #EXTINF:10.0,
-https://mediaprima.rastream.com/mediaprima-onefm
+https://mediaprima.rastream.com/mediaprima-onefm-1002.ts
 #EXTINF:9.0,
-https://mediaprima.rastream.com/mediaprima-onefm
+https://mediaprima.rastream.com/mediaprima-onefm-1003.ts
 
