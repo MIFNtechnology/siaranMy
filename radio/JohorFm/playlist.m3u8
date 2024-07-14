@@ -1,9 +1,16 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+
+#EXTINF:8.0,
 https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:10
+
+#EXTINF:10.0,
 https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:10
+
+#EXTINF:9.0,
 https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+
