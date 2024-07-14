@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8Fm/playlist_360.m3u8
+playlist_360.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8Fm/playlist_480.m3u8
+playlist_480.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/radio/8Fm/playlist_540.m3u8
+playlist_540.m3u8
