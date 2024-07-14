@@ -1,1 +1,15 @@
-#EXTM3U#EXT-X-VERSION:4#EXT-X-TARGETDURATION:10#EXT-X-MEDIA-SEQUENCE:0#EXTINF:10.0,https://mediaprima.rastream.com:443/mediaprima-hotfm#EXTINF:8.0,https://mediaprima.rastream.com:443/mediaprima-hotfm#EXTINF:10.0,https://mediaprima.rastream.com:443/mediaprima-hotfm#EXTINF:9.0,https://mediaprima.rastream.com:443/mediaprima-hotfm
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://mediaprima.rastream.com:443/mediaprima-hotfm
+
+#EXTINF:8.0,
+https://mediaprima.rastream.com:443/mediaprima-hotfm
+
+#EXTINF:10.0,
+https://mediaprima.rastream.com:443/mediaprima-hotfm
+
+#EXTINF:9.0,
+https://mediaprima.rastream.com:443/mediaprima-hotfm
