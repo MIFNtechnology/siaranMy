@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000,CODECS="mp4a.40.2"
-https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist_360.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000,CODECS="mp4a.40.2"
-https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist_480.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000,CODECS="mp4a.40.2"
-https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist_540.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
+playlist_360.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+playlist_480.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+playlist_540.m3u8
