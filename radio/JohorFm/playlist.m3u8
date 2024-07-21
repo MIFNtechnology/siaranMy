@@ -1,13 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:8.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:10.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-#EXTINF:9.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
+playlist_360.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+playlist_480.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+playlist_720.m3u8
