@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
 #EXTINF:10
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
-#EXTINF:10
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+https://28453.live.streamtheworld.com/RIA897FM_PREM.aac
+
