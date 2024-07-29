@@ -2,10 +2,10 @@
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MEDIA-SEQUENCE:3
 #EXTINF:10,
-https://28453.live.streamtheworld.com/RIA897FM_PREM.aac
+https://28453.live.streamtheworld.com/RIA897FM_PREM.aac?disc=1
 #EXTINF:10,
-https://28453.live.streamtheworld.com/RIA897FM_PREM.aac
+https://28453.live.streamtheworld.com/RIA897FM_PREM.aac?disc=2
 #EXTINF:10,
-https://28453.live.streamtheworld.com/RIA897FM_PREM.aac
+https://28453.live.streamtheworld.com/RIA897FM_PREM.aac?disc=3
