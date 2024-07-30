@@ -1,7 +1,13 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
-playlist_360.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-playlist_480.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
-playlist_540.m3u8
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:8.0,
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:10.0,
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:9.0,
+https://mediaprima.rastream.com/mediaprima-koolfm
+
