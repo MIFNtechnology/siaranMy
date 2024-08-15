@@ -32,7 +32,7 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="BernamaTV"  tvg-name="Bernama Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv
+#EXTINF:-1 tvg-group="siaranMy" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" tvg-id="BernamaTV" tvg-name="BernamaTV", BERNAMA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS"  tvg-number="121" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
