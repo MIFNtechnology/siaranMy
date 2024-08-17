@@ -5,7 +5,7 @@ FREE IPRD
 | GROUP | ID | LOGO || GROUP | ID | LOGO |
 |--|--|--|--|--|--|--|
 | radio | Johor Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/JohorFm.png" alt="JohorFm" width="40" />](logo/JohorFm.png)|| radio | Best Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/bestfm.png" alt="bestfm" width="40" />](logo/bestfm.png)|
-| radio | Buletin Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" width="40" />](logo/BuletinFm.png)|| radio | Hot Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" alt="HotFm" width="40" />](logo/HotFm.png)|
+| radio | Kool Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Kool101.png" alt="BuletinFm" width="40" />](logo/Kool101.png)|| radio | Hot Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" alt="HotFm" width="40" />](logo/HotFm.png)|
 | radio | Era | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" width="40" />](logo/Era.png)|| radio | Fly Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" alt="FlyFm" width="40" />](logo/FlyFm.png)|
 | radio | Hitz Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" alt="HitzFm" width="40" />](logo/HitzFm.png)|| radio | Nasional Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/NasionalFm.png" alt="NasionalFm" width="40" />](logo/NasionalFm.png)|
 | radio | Radio Klasik | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/RadioKlasik.png" alt="RadioKlasik" width="40" />](logo/RadioKlasik.png)|| radio | Sinar Fm | [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" alt="SinarFm" width="40" />](logo/SinarFm.png)|
@@ -29,9 +29,9 @@ https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html
 ~~~
 https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html
 ~~~
-[BuletinFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BuletinFm.png" alt="BuletinFm" width="40" />](logo/BuletinFm.png)
+[KoolFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Kool101.png" alt="BuletinFm" width="40" />](logo/Kool101.png)
 ~~~
-https://mifntechnology.github.io/siaranMy/radio/BuletinFm/buletin_index.html
+https://mifntechnology.github.io/siaranMy/radio/BuletinFm/KoolFm_index.html
 ~~~
 [Era<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" alt="Era" width="40" />](logo/Era.png)
 ~~~
