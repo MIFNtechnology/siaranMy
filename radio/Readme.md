@@ -29,7 +29,7 @@ https://mifntechnology.github.io/siaranMy/radio/JohorFm/johor_index.html
 ~~~
 https://mifntechnology.github.io/siaranMy/radio/BestFm/best_index.html
 ~~~
-[KoolFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Kool101.png" alt="BuletinFm" width="40" />](logo/Kool101.png)
+[KoolFm<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Kool101.png" alt="BuletinFm" width="40" />](logo/kool.png)
 ~~~
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/KoolFm_index.html
 ~~~
