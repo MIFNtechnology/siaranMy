@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:8.0,
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:10.0,
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:9.0,
-https://mediaprima.rastream.com/mediaprima-onefm
+#EXTM3U#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"https://stream.rcs.revma.com/qp0xrd9mtd3vv/13_wamjyj5892jv02/playlist.m3u8
