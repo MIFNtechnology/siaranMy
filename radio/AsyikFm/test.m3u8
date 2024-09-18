@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
-https://ffmpeg-hls-test.datastream.tebi.io/test.m3u8
