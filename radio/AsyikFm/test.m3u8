@@ -1,14 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:5.990744,
-test0.ts
-#EXTINF:5.990756,
-test1.ts
-#EXTINF:5.990744,
-test2.ts
-#EXTINF:5.990744,
-test3.ts
-#EXTINF:6.037189,
-test4.ts
+#EXT-X-STREAM-INF:BANDWIDTH=24000,CODECS="mp4a.40.2"
+https://ffmpeg-hls-test.datastream.tebi.io/test.m3u8
