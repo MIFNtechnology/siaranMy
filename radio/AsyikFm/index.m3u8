@@ -1,6 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:190
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELEC T=YES,DEFAULT=YES,URI="https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
-https://mifntechnology.github.io/siaranMy/mifn_logo.mp4
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",NAME="audio_0",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC.m3u8"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=812000,AVERAGE-BANDWIDTH=738000,CODECS="mp4a.40.2,avc1.640015",RESOLUTION=480x270,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
+https://ffmpeg-hls-test.datastream.tebi.io/mifn/playlist.m3u8
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=88000,CODECS="avc1.640015",RESOLUTION=480x270,VIDEO-RANGE=SDR,URI="keyframes/playlist.m3u8"
