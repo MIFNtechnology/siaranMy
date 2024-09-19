@@ -8,10 +8,10 @@ $('.button-play').click(function() {
   if (icon.hasClass('fa-pause')) {
     icon.removeClass('fa-pause');
     icon.addClass('fa-play');
-    if (player.src != "https://stream.rcs.revma.com/3930238mtd3vv/11_9yjksbzldd5i02/playlist.m3u8"){
-		  player.src = "https://stream.rcs.revma.com/3930238mtd3vv/11_9yjksbzldd5i02/playlist.m3u8";
+    if (player.src != "http://blackwood.fcad.ryerson.ca:8002/spiritlive1"){
+      player.src = "http://blackwood.fcad.ryerson.ca:8002/spiritlive1";
     }
-		player.pause();
+    player.pause();
     waveAfterWave();
   } else {
     icon.removeClass('fa-play');
@@ -27,7 +27,7 @@ $('.button-stop').click(function() {
   if (icon.hasClass('fa-pause')) {
     icon.removeClass('fa-pause');
     icon.addClass('fa-play');
-    player.src = "https://stream.rcs.revma.com/3930238mtd3vv/11_9yjksbzldd5i02/playlist.m3u8";
+    player.src = "http://blackwood.fcad.ryerson.ca:8002/spiritlive1";
   }
   waveAfterWave();
 });
@@ -52,7 +52,7 @@ function checkVolume() {
   icon = $('.button-sound').find('i');
   
   if (radioVolume.value == 0) {
-  icon.removeClass('fa-volume-up');
+    icon.removeClass('fa-volume-up');
     icon.removeClass('fa-volume-down');
     icon.addClass('fa-volume-off');
   } else if (radioVolume.value < 50) {
