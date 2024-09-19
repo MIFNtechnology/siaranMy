@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=2038521,AVERAGE-BANDWIDTH=2038521,CODECS="mp4a.40.2"
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC.m3u8!f=hls-aac-rt
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC.m3u8
