@@ -3,10 +3,10 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
 #EXTINF:8.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
 #EXTINF:10.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
 #EXTINF:9.0,
-https://22243.live.streamtheworld.com/JOHOR_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
