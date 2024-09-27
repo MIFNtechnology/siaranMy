@@ -3,10 +3,10 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:8.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:10.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:9.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
