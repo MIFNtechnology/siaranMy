@@ -3,13 +3,13 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-DISCONTINUITY
-#EXT-X-KEY:METHOD=AES-128,URI="https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?r=52",  \
-IV=0x9c7db8778570d05c3177c349fd9236aa
+#EXT-X-KEY:METHOD=AES-128,URI="https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC/key.php?r=53",  \
+IV=0xc055ee9f6c1eb7aa50bfab02b0814972
 #EXTINF:10.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC0.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:8.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC1.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:10.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC2.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:9.0,
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC3.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
