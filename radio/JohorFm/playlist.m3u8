@@ -6,10 +6,10 @@
 #EXT-X-KEY:METHOD=AES-128,URI="https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC?r=52",  \
 IV=0x9c7db8778570d05c3177c349fd9236aa
 #EXTINF:10.0,
-main0.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC0.ts
 #EXTINF:8.0,
-main1.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC1.ts
 #EXTINF:10.0,
-main2.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC2.ts
 #EXTINF:9.0,
-main3.ts
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC3.ts
