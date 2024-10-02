@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC
