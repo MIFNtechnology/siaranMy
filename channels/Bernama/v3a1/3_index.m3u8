@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:6
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-MAP:URI="https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/164/video-cif-stream-3_init.mp4"
+#EXTINF:1,
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/164/video-cif-stream-3_init.mp4
