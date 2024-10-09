@@ -12,8 +12,3 @@ v3a1/3_index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2444000,AVERAGE-BANDWIDTH=2222000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=960x540,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
 v4a1/4_index.m3u8
 
-# keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=124000,CODECS="avc1.64001E",RESOLUTION=640x360,VIDEO-RANGE=SDR,URI="https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/146/video-cif-stream-2_init.mp4"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.64001F",RESOLUTION=960x540,VIDEO-RANGE=SDR,URI="https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/146/video-cif-stream-3_init.mp4"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/146/video-cif-stream-4_init.mp4"
-
