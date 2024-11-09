@@ -58,7 +58,7 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 #EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
