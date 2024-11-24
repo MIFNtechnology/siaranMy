@@ -7,7 +7,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/Tv3.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv3/chunklist-b1000000.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
@@ -16,13 +16,13 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/Ntv7.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/chunklist-b1000000.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/8tv.m3u8
+https://mifntechnology.github.io/siaranMy/channels/8tv/chunklist-b1000000.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/Tv9.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv9/chunklist-b1000000.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
