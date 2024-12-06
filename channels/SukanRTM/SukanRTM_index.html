@@ -1,16 +1,28 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
-    <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
-    <script defer src="https://vjs.zencdn.net/8.9.0/video.min.js"></script>
-  </head>
-  <center>
-    <body>
-      <iframe src="https://bradm.ax/build/202404/24/78366c18cb30a16c6dc2fa0a756dd671ab741628/index.html?mediaUrl=https%3A%2F%2Fmifntechnology.github.io%2FsiaranMy%2Fchannels%2FSukanRTM%2Findex.m3u8&title=SukanRtm&duration=734.097415&splashImgUrl=https%3A%2F%2Fmifntechnology.github.io%2FsiaranMy%2Flogo%2FSukanRtm.png&id=SukanRtm_liveStream" width="950px" height="700px" frameBorder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </body>
-  </center>
-</html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
+			<link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
+			<script defer src="https://vjs.zencdn.net/8.9.0/video.min.js">
+			</script>
+		</head>
+		<center>
+			<body>
+				<video
+					id="siaranMy"
+					class="video-js"
+					controls
+					preLoad="auto"
+					control poster="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png"
+					width="900"
+					height="700"
+					data-setup="{}"
+					>
+					<source src=" https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8" type="application/vnd.apple.mpegurl">
+				</video>
+			</body>
+		</center>
+    </html>
