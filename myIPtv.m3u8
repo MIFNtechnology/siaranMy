@@ -34,7 +34,7 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Bernama/playlist.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-https://mifntechnology.github.io/siaranMy/channels/Tvs/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tvs/3-index.fmp4.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
