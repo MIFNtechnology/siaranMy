@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXT-X-TARGETDURATION:49.47600000000239
+#EXT-X-TARGETDURATION:6.000000
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-MAP:URI="https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/80/video-cif-stream-1_init.mp4"
