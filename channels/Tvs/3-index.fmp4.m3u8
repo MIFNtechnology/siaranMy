@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:10,
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/160/video-cif-stream-3_init.mp4
-#EXTINF:10
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/160/video-cif-stream-3_init.mp4
-#EXTINF:10
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/160/video-cif-stream-3_init.mp4
