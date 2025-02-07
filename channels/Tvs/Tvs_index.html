@@ -3,8 +3,6 @@
 
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
-	<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/plyr@3/dist/plyr.css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="referrer" content="no-referrer">
 	<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
@@ -21,7 +19,7 @@
 
 <body>
 	<center>
-		<div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true"><video autoplay="" data-shaka-player="" id="video" style="width:100%;height:100%;" class="shaka-video" src="blob:https://myvi.servebeer.com/ecfac7db-feb6-4b7b-81a2-1ea58c4364f7"></video></div>
+		<div id="stream"><iframe src="https://myvi.servebeer.com/tvs.html" width="100%" height="680" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen; geolocation; web-share; speaker-selection; screen-wake-lock; idle-detection"></iframe></div>
 		<script>
 			async function init() {
 				const video = document.getElementById('video');
@@ -70,7 +68,6 @@
 		</script>
 	</center>
 	<script src='https://cdnjs.cloudflare.com/polyfill/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL'></script>
-	<script src='https://cdn.jsdelivr.net/npm/plyr@3'></script>
 </body>
 
 </html>
