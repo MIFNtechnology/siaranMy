@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script async="" src="https://js.datadome.co/tags.js"></script>
-	<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style>
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}
+	</style>
 	<input type="hidden" id="inject_idm_text_selection">
-		<style>div a img{visibility:hidden;}</style>
+	<style>div a img{visibility:hidden;}</style>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
-	<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/plyr@3/dist/plyr.css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="referrer" content="no-referrer">
 	<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
@@ -18,7 +17,21 @@
 	<!-- Your application source: -->
 </head>
 <body bgcolor="black" style="margin:0" oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
-	<script>!function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://js.datadome.co/tags.js","99B1C08278137CE22ADB60CE8DE020", {"ajaxListenerPath": true});</script>
+	<script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+   </script>
 	<center>
 		<div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true"><video autoplay="" data-shaka-player="" id="video" style="width:100%;height:100%;" class="shaka-video" src=""></video></div>
 		<script>
@@ -51,8 +64,6 @@ document.addEventListener('shaka-ui-loaded', init);
 document.addEventListener('shaka-ui-load-failed', initFailed); 
 		</script>
 		<script type="text/javascript" src="https://encrypt2.skycdn.ga/udp/Counter"></script>
-		<script src='https://cdnjs.cloudflare.com/polyfill/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL'></script>
-		<script src='https://cdn.jsdelivr.net/npm/plyr@3'></script>
 	</center>
 </body>
 </html>
