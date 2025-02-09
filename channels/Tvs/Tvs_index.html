@@ -41,7 +41,7 @@
 				player.addEventListener('error', onPlayerErrorEvent);
 				controls.addEventListener('error', onUIErrorEvent);
 				try {
-					await player.load('https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd');
+					await player.load('https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd');
 					console.log('The video has now been loaded!');
 				} catch (error) {
 					onPlayerError(error);
