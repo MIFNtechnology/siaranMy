@@ -1,5 +1,4 @@
 var playerInstance = jwplayer("myElement");
-jwplayer.key = "jTL7dlu7ybUI5NZnDdVgb1laM8/Hj3ftIJ5Vqg==";
 playerInstance.setup({
   playlist: [{
     sources: [{
