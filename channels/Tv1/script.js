@@ -1,23 +1,16 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const source =
-  "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8";
-  const video = document.querySelector("video");
-  const player = new Plyr(video, {
-    captions: { active: true, update: true, } });
-
-
-  if (!Hls.isSupported()) {
-    video.src = source;
-  } else {
-    const hls = new Hls();
-    hls.loadSource(source);
-    hls.attachMedia(video);
-    window.hls = hls;
-
-    player.on("languagechange", () => {
-      setTimeout(() => hls.subtitleTrack = player.currentTrack, 50);
-    });
-  }
-
-  window.player = player;
+var playerInstance = jwplayer("myElement");
+jwplayer.key = "jTL7dlu7ybUI5NZnDdVgb1laM8/Hj3ftIJ5Vqg==";
+playerInstance.setup({
+  playlist: [{
+    sources: [{
+      file: "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
+      type: "hls"
+    }],
+    image: "https://mifntechnology.github.io/siaranMy/logo/Tv1.png",
+    title: "TV1",
+    description: "TV1 | RTM"
+  }],
+  width: 640,
+  height: 360,
+  mute: true
 });
