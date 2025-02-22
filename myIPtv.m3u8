@@ -52,7 +52,9 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
