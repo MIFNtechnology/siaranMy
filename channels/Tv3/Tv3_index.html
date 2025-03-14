@@ -8,11 +8,13 @@
 			<link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
 			<script defer src="https://vjs.zencdn.net/8.9.0/video.min.js">
 			</script>
+			<script src="https://cdn.jsdelivr.net/npm/hls.js@1">
+			</script>
 		</head>
 		<center>
 			<body>
 				<video
-					id="siaranMy"
+					id="video"
 					class="video-js"
 					controls
 					preLoad="auto"
@@ -23,6 +25,25 @@
 					>
 					<source src=" https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a1482328baae7286" type="application/vnd.apple.mpegURL">
 				</video>
+				<script>
+					var video = document.getElementById('video');
+					var videoSrc = 'https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8';
+					if (Hls.isSupported()) {
+						var hls = new Hls();
+						hls.loadSource(videoSrc);
+						hls.attachMedia(video);
+						}
+// HLS.js is not supported on platforms that do not have Media Source
+  // Extensions (MSE) enabled.
+  //
+  // When the browser has built-in HLS support (check using `canPlayType`),
+  // we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
+  // element through the `src` property. This is using the built-in support
+  // of the plain video element, without using HLS.js.
+						else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+							video.src = videoSrc;
+							}
+				</script>
 			</body>
 		</center>
     </html>
