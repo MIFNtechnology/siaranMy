@@ -1,5 +1,16 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","origin":"https://watch.tonton.com.my","referer":"https://watch.tonton.com.my/","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"Windows","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-site","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=4646400,AVERAGE-BANDWIDTH=4470400,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
+
+#EXT-X-STREAM-INF:BANDWIDTH=2358400,AVERAGE-BANDWIDTH=2270400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_720.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
+
+#EXT-X-STREAM-INF:BANDWIDTH=1214400,AVERAGE-BANDWIDTH=1170400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_540.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
+
+#EXT-X-STREAM-INF:BANDWIDTH=642400,AVERAGE-BANDWIDTH=620400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_360.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
