@@ -1,8 +1,8 @@
 [
   {
-    "id": "Tv1.my",
+    "id": "TV1",
     "name": "RTM Tv1",
-    "alt_names": ["Tv1"],
+    "alt_names": ["TV1"],
     "network": "null",
     "owners": ["Radio Televisyen Malaysia"],
     "country": "MY",
@@ -17,13 +17,11 @@
     "replaced_by": "RTM 1",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png"
-  }
-]
-[
+  },
   {
-    "id": "Tv2.my",
+    "id": "TV2",
     "name": "Tv2",
-    "alt_names": ["Tv2"],
+    "alt_names": ["TV2"],
     "network": "null",
     "owners": ["Radio Televisyen Malaysia"],
     "country": "MY",
@@ -38,13 +36,11 @@
     "replaced_by": "RTM 2",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png"
-  }
-]
-[
+  },
   {
-    "id": "Tv3.my",
+    "id": "TV3",
     "name": "Tv3",
-    "alt_names": ["Tv3"],
+    "alt_names": ["TV3"],
     "network": "null",
     "owners": ["Media Prima Berhad"],
     "country": "MY",
@@ -59,11 +55,9 @@
     "replaced_by": "null",
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png"
-  }
-]
-[
+  },
   {
-    "id": "OkeyTv.my",
+    "id": "OKEY",
     "name": "OkeyTv",
     "alt_names": ["OkeyTv"],
     "network": "null",
@@ -80,13 +74,11 @@
     "replaced_by": "TVi",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png"
-  }
-]
-[
+  },
   {
-    "id": "Tvs.my",
+    "id": "TVS",
     "name": "Tvs",
-    "alt_names": ["Tvs"],
+    "alt_names": ["TVS"],
     "network": "null",
     "owners": ["Sarawak Media Group"],
     "country": "MY",
@@ -102,12 +94,10 @@
     "website": "https://www.tvsarawak.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png"
   }
-]
-[
   {
-    "id": "Tv6.my",
+    "id": "TV6",
     "name": "RTM Tv6",
-    "alt_names": ["Tv6"],
+    "alt_names": ["TV6"],
     "network": "null",
     "owners": ["Radio Televisyen Malaysia"],
     "country": "MY",
@@ -122,13 +112,11 @@
     "replaced_by": "null",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png"
-  }
-]
-[
+  },
   {
-    "id": "Ntv7.my",
+    "id": "DidikTVKPM",
     "name": "Didik Tv KPM",
-    "alt_names": ["Ntv7"],
+    "alt_names": ["DidikTVKPM"],
     "network": "null",
     "owners": ["Media Prima Berhad"],
     "country": "MY",
@@ -143,13 +131,11 @@
     "replaced_by": "null",
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png"
-  }
-]
-[
+  },
   {
-    "id": "8tv.my",
+    "id": "8TV",
     "name": "8tv",
-    "alt_names": ["8tv"],
+    "alt_names": ["8TV"],
     "network": "null",
     "owners": ["Media Prima Berhad"],
     "country": "MY",
@@ -164,13 +150,11 @@
     "replaced_by": "null",
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png"
-  }
-]
-[
+  },
   {
-    "id": "Tv9.my",
+    "id": "TV9",
     "name": "Tv9",
-    "alt_names": ["Tv9"],
+    "alt_names": ["TV9"],
     "network": "null",
     "owners": ["Media Prima Berhad"],
     "country": "MY",
@@ -185,11 +169,9 @@
     "replaced_by": "null",
     "website": "www.xtra.com.my",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png"
-  }
-]
-[
+  },
   {
-    "id": "DuniaSinima.my",
+    "id": "DuniaSinima",
     "name": "DuniaSinima",
     "alt_names": ["DuniaSinima"],
     "network": "null",
@@ -206,11 +188,9 @@
     "replaced_by": "null",
     "website": "https://unifi.com.my/tv/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinima.png"
-  }
-]
-[
+  },
   {
-    "id": "BeritaRtm.my",
+    "id": "BeritaRtm",
     "name": "Berita Rtm",
     "alt_names": ["BeritaRtm"],
     "network": "null",
@@ -227,11 +207,9 @@
     "replaced_by": "Saluran Berita RTM",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png"
-  }
-]
-[
+  },
   {
-    "id": "SukanRtm.my",
+    "id": "SukanRtm",
     "name": "Sukan Rtm",
     "alt_names": ["SukanRtm"],
     "network": "null",
@@ -248,11 +226,9 @@
     "replaced_by": "RTM Sports",
     "website": "https://rtmklik.rtm.gov.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png"
-  }
-]
-[
+  },
   {
-    "id": "TvIkim.my",
+    "id": "TvIkim",
     "name": "TvIkim",
     "alt_names": ["TvIkim"],
     "network": "null",
@@ -269,11 +245,9 @@
     "replaced_by": "null",
     "website": "https://www.tvikim.my/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png"
-  }
-]
-[
+  },
   {
-    "id": "AstroAwani.my",
+    "id": "AstroAwani",
     "name": "Astro Awani",
     "alt_names": ["AstroAwani"],
     "network": "null",
@@ -290,11 +264,9 @@
     "replaced_by": "null",
     "website": "https://www.astroawani.com/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png"
-  }
-]
-[
+  },
   {
-    "id": "Bernama.my",
+    "id": "Bernama",
     "name": "Bernama",
     "alt_names": ["Bernama"],
     "network": "null",
@@ -311,11 +283,9 @@
     "replaced_by": "Bernama News Channel",
     "website": "https://www.bernama.com/tv/",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png"
-  }
-]
-[
+  },
   {
-    "id": "TvAlhijrah.my",
+    "id": "TvAlhijrah",
     "name": "TvAlhijrah",
     "alt_names": ["TvAlhijrah"],
     "network": "null",
@@ -332,5 +302,24 @@
     "replaced_by": "null",
     "website": "null",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png"
+  },
+  {
+    "id": "CartoonNetwork",
+    "name": "CartoonNetwork",
+    "alt_names": ["CartoonNetwork"],
+    "network": "null",
+    "owners": ["Cartoon Network Asia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "null",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png"
   }
 ]
