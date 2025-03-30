@@ -16,6 +16,8 @@
     "closed": "null",
     "replaced_by": "RTM 1",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png"
   },
   {
@@ -35,6 +37,8 @@
     "closed": "null",
     "replaced_by": "RTM 2",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png"
   },
   {
@@ -54,6 +58,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "www.xtra.com.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png"
   },
   {
@@ -73,6 +79,8 @@
     "closed": "null",
     "replaced_by": "TVi",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png"
   },
   {
@@ -92,6 +100,8 @@
     "closed": "null",
     "replaced_by": "Tv Sarawak",
     "website": "https://www.tvsarawak.my/",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png"
   }
   {
@@ -111,6 +121,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png"
   },
   {
@@ -130,6 +142,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "www.xtra.com.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png"
   },
   {
@@ -149,6 +163,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "www.xtra.com.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png"
   },
   {
@@ -168,6 +184,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "www.xtra.com.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png"
   },
   {
@@ -187,6 +205,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "https://unifi.com.my/tv/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinima.png"
   },
   {
@@ -206,6 +226,8 @@
     "closed": "null",
     "replaced_by": "Saluran Berita RTM",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/BeritaRtm/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png"
   },
   {
@@ -225,6 +247,8 @@
     "closed": "null",
     "replaced_by": "RTM Sports",
     "website": "https://rtmklik.rtm.gov.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/SukanRtm/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png"
   },
   {
@@ -244,6 +268,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "https://www.tvikim.my/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png"
   },
   {
@@ -263,6 +289,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "https://www.astroawani.com/",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png"
   },
   {
@@ -282,6 +310,8 @@
     "closed": "null",
     "replaced_by": "Bernama News Channel",
     "website": "https://www.bernama.com/tv/",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png"
   },
   {
@@ -301,6 +331,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "null",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png"
   },
   {
@@ -320,6 +352,8 @@
     "closed": "null",
     "replaced_by": "null",
     "website": "null",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8",
+    "timeshift": "2",
     "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png"
   }
 ]
