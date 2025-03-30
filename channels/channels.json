@@ -18,7 +18,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png",
   },
   {
     "id": "TV2",
@@ -39,7 +39,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png",
   },
   {
     "id": "TV3",
@@ -60,7 +60,7 @@
     "website": "www.xtra.com.my",
     "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png",
   },
   {
     "id": "OKEY",
@@ -81,7 +81,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png",
   },
   {
     "id": "TVS",
@@ -102,7 +102,7 @@
     "website": "https://www.tvsarawak.my/",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png",
   }
   {
     "id": "TV6",
@@ -123,7 +123,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png",
   },
   {
     "id": "DidikTVKPM",
@@ -144,7 +144,7 @@
     "website": "www.xtra.com.my",
     "url": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png",
   },
   {
     "id": "8TV",
@@ -165,7 +165,7 @@
     "website": "www.xtra.com.my",
     "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png",
   },
   {
     "id": "TV9",
@@ -186,7 +186,7 @@
     "website": "www.xtra.com.my",
     "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png",
   },
   {
     "id": "DuniaSinima",
@@ -207,7 +207,7 @@
     "website": "https://unifi.com.my/tv/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinima.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinima.png",
   },
   {
     "id": "BeritaRtm",
@@ -228,7 +228,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/BeritaRtm/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png",
   },
   {
     "id": "SukanRtm",
@@ -249,7 +249,7 @@
     "website": "https://rtmklik.rtm.gov.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/SukanRtm/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png",
   },
   {
     "id": "TvIkim",
@@ -270,7 +270,7 @@
     "website": "https://www.tvikim.my/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png",
   },
   {
     "id": "AstroAwani",
@@ -291,7 +291,7 @@
     "website": "https://www.astroawani.com/",
     "url": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png",
   },
   {
     "id": "Bernama",
@@ -312,7 +312,7 @@
     "website": "https://www.bernama.com/tv/",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png",
   },
   {
     "id": "TvAlhijrah",
@@ -333,7 +333,7 @@
     "website": "null",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",
   },
   {
     "id": "CartoonNetwork",
@@ -354,6 +354,6 @@
     "website": "null",
     "url": "https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8",
     "timeshift": "2",
-    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png"
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png",
   }
 ]
