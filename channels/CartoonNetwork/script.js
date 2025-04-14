@@ -17,7 +17,7 @@ window.player = player;
 window.ui = ui; 
 player.addEventListener('error', onPlayerErrorEvent); 
 controls.addEventListener('error', onUIErrorEvent); 
-try{await player.load('https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd'); 
+try{await player.load('https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd'); 
 console.log('The video has now been loaded!');} catch (error) {onPlayerError(error);}} 
 function onPlayerErrorEvent(errorEvent) {onPlayerError(event.detail);} 
 function onPlayerError(error) {console.error('Error code', error.code, 'object', error);} 
