@@ -1,1 +1,3 @@
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_360.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&mediaUri=
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_360.m3u8?mediaUri=bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&mediaUri=
