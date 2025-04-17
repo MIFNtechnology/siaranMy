@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_360.m3u8?mediaUri=&bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
