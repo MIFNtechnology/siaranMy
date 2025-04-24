@@ -22,8 +22,8 @@
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png" alt="SukanRtm" width="125" />](https://mifntechnology.github.io/siaranMy/channels/SukanRTM)| |
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png" alt="AstroAwani" width="125" height="70" />](https://mifntechnology.github.io/siaranMy/channels/AstroAwani)
 
-* [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png" alt="CartoonNetwork" width="125" height="70" />](https://mifntechnology.github.io/siaranMy/CartoonNetwork)||
-[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png" alt="Bernama" width="125" />](https://mifntechnology.github.io/siaranMy/Bernama)| |
+* [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png" alt="CartoonNetwork" width="125" height="70" />](https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork)||
+[<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png" alt="Bernama" width="125" />](https://mifntechnology.github.io/siaranMy/channels/Bernama)| |
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanRakyat.png" alt="DewanRakyat" width="125" height="70" />](https://mifntechnology.github.io/siaranMy/channels/DewanRakyat)| |
 [<img src="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DewanNegara.png" alt="DewanNegara" width="125" height="70"/>](https://mifntechnology.github.io/siaranMy/channels/DewanNegara)
 
