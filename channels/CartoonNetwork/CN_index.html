@@ -1,25 +1,36 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<meta charset="UTF-8">
-				<title>CARTOON NETWORK</title>
-			<meta http-equiv="X-UA-Compatible" content="IE=edge">
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<meta name="referrer" content="no-referrer">
-			<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js" crossorigin="anonymous">
-			</script>
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/controls.min.css" crossorigin="anonymous">
-			</script>
-		</head>
-		<body>
-			<center>
-				<div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true">
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>CARTOON NETWORK </title>
+
+<script src='https://cdn.jsdelivr.net/npm/bitmovin-player@8/bitmovinplayer.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.8/shaka-player.compiled.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.compiled.debug.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.8/shaka-player.ui.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.ui.debug.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mux.js/5.11.3/mux.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js'></script>
+<link href='https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.8/controls.css' rel='stylesheet' type='text/css'/>
+<link href='//cdnjs.cloudflare.com/ajax/libs/plyr/3.3.5/plyr.css' rel='stylesheet'/>
+<script src='//cdn.jsdelivr.net/hls.js/latest/hls.js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/plyr/3.3.5/plyr.min.js'></script>
+<script src='//ssl.p.jwpcdn.com/player/v/8.21.0/jwplayer.js'></script>
+<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+
+</head>
+<body>
+
+  <div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true">
 					<video autoplay="" data-shaka-player="" id="video" style="width:100%;height:100%;" class="shaka-video" src="">
 					</video>
 				</div>
-				<script  src="https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/script.js">
-				</script>
-			</center>
-		</body>
-	</html>
+
+  <script src="./script.js">
+  </script>
+
+</body>
+</html>
