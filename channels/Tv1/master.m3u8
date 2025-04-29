@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=346000,RESOLUTION=426x240
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_240p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=596000,RESOLUTION=640x360
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=796000,RESOLUTION=854x480
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1096000,RESOLUTION=1280x720
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2596000,RESOLUTION=1920x1080
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
