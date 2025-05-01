@@ -1,4 +1,4 @@
-const manifestUri = 'https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8';
+const manifestUri = 'https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846';
 
     function initApp() {
       shaka.polyfill.installAll();
