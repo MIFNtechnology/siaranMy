@@ -1,25 +1,3 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-fileSequence0.ts
-#EXTINF:10.0,
-fileSequence1.ts
-#EXTINF:10.0,
-fileSequence2.ts
-#EXTINF:10.0,
-fileSequence3.ts
-#EXTINF:10.0,
-fileSequence4.ts
-
-
-// List of files between 4 and 120 go here.
-
-
-#EXTINF:10.0,
-fileSequence120.ts
-#EXTINF:10.0,
-fileSequence121.ts
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400274059.m3u8
