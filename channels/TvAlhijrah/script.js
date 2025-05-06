@@ -42,3 +42,4 @@ async function init() {
     function initFailed(errorEvent) {console.error('Unable to load the UI library!');}
     document.addEventListener('shaka-ui-loaded', init);
     document.addEventListener('shaka-ui-load-failed', initFailed);
+    function onJsonErrorEvent(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://js.datadome.co/tags.js","99B1C08278137CE22ADB60CE8DE020", {"ajaxListenerPath": true});
