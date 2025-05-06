@@ -3,6 +3,7 @@ async function init() {
 	const ui = video['ui'];
 	const controls = ui.getControls();
 	const player = controls.getPlayer();
+	const json = data();
 	const config = {
 		enableKeyboardPlaybackControls: true,
 		'seekBarColors': {
