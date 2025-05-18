@@ -1,4 +1,4 @@
-const manifestUri = 'https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5';
+const manifestUri = 'https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.mpd';
 
     function initApp() {
       shaka.polyfill.installAll();
@@ -26,6 +26,15 @@ const manifestUri = 'https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?b
         }
       }
       ui.configure(config);
+      
+      // Configure ClearKey DRM
+            player.configure({
+                drm: {
+                    clearKeys: {
+                        '1dfa8a645af41e83c520bddf913934ca': '65f6af8750d24b230d91b984237ac1e4'
+                    }
+                }
+            });
 
       window.player = player;
       window.ui = ui;
@@ -61,9 +70,3 @@ const manifestUri = 'https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?b
     document.addEventListener('shaka-ui-loaded', init);
     document.addEventListener('shaka-ui-load-failed', initFailed);
     document.addEventListener('DOMContentLoaded', initApp);
-
-    Object.defineProperty(navigator, 'userAgent', {
-      get: function() { // Latest (Feb 18, 2024)
-        return 'User Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36';
-      }
-    });
