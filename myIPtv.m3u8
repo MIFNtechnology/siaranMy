@@ -19,8 +19,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a9c619074ed38c20e25ad36c3c57c10c": "056e1e49573d2caee5cb4fe78f8c4f3d"}
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
@@ -35,6 +36,7 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
@@ -51,8 +53,8 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"4745ac4464797aa9d5ed653c1e987917": "ffe2dd898757fb14c156b3e014058ecc"}
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
