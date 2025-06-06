@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:7
+
+# Audio/subtitles
+#EXT-X-MEDIA:NAME="mul-80",TYPE=AUDIO,LANGUAGE="mul",GROUP-ID="audio",CODECS="mp4a.40.5",DEFAULT=YES,AUTOSELECT=YES,URI="https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/80/video-cif-stream-1.m3u8"
+
+# Video
+#EXT-X-STREAM-INF:CODECS="avc1.4d4029,mp4a.40.5",BANDWIDTH=960000,RESOLUTION=960x540,AUDIO="audio"
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/video-cif-stream-4.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d4020,mp4a.40.5",BANDWIDTH=800000,RESOLUTION=640x480,AUDIO="audio"
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/video-cif-stream-3.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.428016,mp4a.40.5",BANDWIDTH=600000,RESOLUTION=480x270,AUDIO="audio"
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/video-cif-stream-2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.428015,mp4a.40.5",BANDWIDTH=360000,RESOLUTION=480x270,AUDIO="audio"
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/video-cif-stream-1.m3u8
+
+# I-frame
+#EXT-X-I-FRAME-STREAM-INF:CODECS="avc1.428015",BANDWIDTH=360000,RESOLUTION=480x270,URI="https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/i-frame/video-cif-stream-1_i-frame.m3u8"
