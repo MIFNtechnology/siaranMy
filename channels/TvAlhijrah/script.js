@@ -34,7 +34,7 @@ async function init() {
     window.ui = ui;
     player.addEventListener('error', onPlayerErrorEvent);
     controls.addEventListener('error', onUIErrorEvent);
-    try{await player.load('https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd');
+    try{await player.load('https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd');
     console.log('The video has now been loaded!');} catch (error) {onPlayerError(error);}}
     function onPlayerErrorEvent(errorEvent) {onPlayerError(event.detail);}
     function onPlayerError(error) {console.error('Error code', error.code, 'object', error);}
