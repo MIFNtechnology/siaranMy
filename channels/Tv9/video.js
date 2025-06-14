@@ -1,4 +1,4 @@
-const manifestUri = 'https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.mpd';
+const manifestUri = 'https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd';
 
     function initApp() {
       shaka.polyfill.installAll();
@@ -27,14 +27,14 @@ const manifestUri = 'https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.
       }
       ui.configure(config);
       
-      // Configure ClearKey DRM
-            player.configure({
-                drm: {
-                    clearKeys: {
-                        '1dfa8a645af41e83c520bddf913934ca': '65f6af8750d24b230d91b984237ac1e4'
-                    }
-                }
-            });
+      player.configure({
+  drm: {
+    clearKeys: {
+      // 'key-id-in-hex': 'key-in-hex',
+        '1dfa8a645af41e83c520bddf913934ca': '65f6af8750d24b230d91b984237ac1e4'
+    }
+  }
+});
 
       window.player = player;
       window.ui = ui;
@@ -69,4 +69,3 @@ const manifestUri = 'https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.
 
     document.addEventListener('shaka-ui-loaded', init);
     document.addEventListener('shaka-ui-load-failed', initFailed);
-    document.addEventListener('DOMContentLoaded', initApp);
