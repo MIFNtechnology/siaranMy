@@ -1,4 +1,4 @@
-const manifestUri = 'https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd';
+const manifestUri = 'https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd';
 
     function initApp() {
       shaka.polyfill.installAll();
