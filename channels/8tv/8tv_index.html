@@ -2,23 +2,37 @@
 	<html>
 		<head>
 			<meta charset="UTF-8">
-				<title>8TV</title>
+				<title>8tv</title>
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.ui.debug.min.js">
+			<script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js">
 			</script>
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/controls.min.css">
-			<script src='//cdn.jsdelivr.net/hls.js/latest/hls.js'></script>
+			<script src="https://cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js">
+			</script>
 		</head>
-		<body>
-			<center>
-				<div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true">
-					<video autoplay="" data-shaka-player="" id="video" style="width:100%;height:100%;" class="shaka-video" src="">
-					</video>
+		<center>
+			<body>
+				<div id="vid" style="width: 100%; height: 100%;">
 				</div>
-				<script  src="./video.js">
+				<script>
+					fetch("https://api.npoint.io/088a4a1d924d7a1e771b") // ganti dgn link npoint sebenar 
+					.then(res => res.json())
+                    .then(data => {
+                    const player = new Clappr.Player({
+                    source: data.link,
+                    mimeType: "application/x-mpegURL",
+                   autoPlay: true,
+                   width: "950",
+                   height: "700",
+                   plugins: { core: [LevelSelector] },
+                  parentId: "#vid"
+                  });
+                  })
+                 .catch(err => {
+                 alert("Gagal load stream: " + err);
+                 });
 				</script>
-			</center>
-		</body>
-	</html>
+			</body>
+		</center>
+    </html>
