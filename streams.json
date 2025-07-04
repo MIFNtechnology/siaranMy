@@ -1,232 +1,266 @@
 [
   {
-    "channel": "TV1",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
-    "timeshift": "2",
+    "name": "TV1",
+    "id": "TV1",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv1.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TV2",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8",
-    "timeshift": "2",
+    "name": "TV2",
+    "id": "TV2",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv2.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TV3",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
-    "timeshift": "2",
+    "name": "TV3",
+    "id": "TV3",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "OKEY",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8",
-    "timeshift": "2",
+    "name": "OKEY",
+    "id": "OKEY",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TVS",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
-    "timeshift": "2",
+    "name": "TVS",
+    "id": "TVS",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",
+    "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TV6",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8",
-    "timeshift": "2",
+    "name": "TV6",
+    "id": "TV6",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv6.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "DidikTVKPM",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8",
-    "timeshift": "2",
+    "name": "DidikTVKPM",
+    "id": "DidikTvKPM",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "8TV",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8",
-    "timeshift": "2",
+    "name": "8TV",
+    "id": "8TV",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/8tv.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TV9",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
-    "timeshift": "2",
+    "name": "TV9",
+    "id": "TV9",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
+    
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "DuniaSinema",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8",
-    "timeshift": "2",
+    "name": "DuniaSinema",
+    "id": "DuniaSinema",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TVAlhijrah",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd",
-    "timeshift": "2",
+    "name": "TVAlhijrah",
+    "id": "AlHijrah",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png"
+    "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "BERITARTM",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/BeritaRtm/index.m3u8",
-    "timeshift": "2",
+    "name": "BERITARTM",
+    "id": "BERITARTM",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/BeritaRtm/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TVSUKAN",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/SukanRtm/index.m3u8",
-    "timeshift": "2",
+    "name": "TVSUKAN",
+    "id": "TVSUKAN",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/SukanRtm/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "TVIKIM",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8",
-    "timeshift": "2",
+    "name": "TVIKIM",
+    "id": "TVIKIM",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/TvIkim.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "AstroAwani",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8",
-    "timeshift": "2",
+    "name": "AstroAwani",
+    "id": "AstroAwani",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "BernamaTV",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd",
-    "timeshift": "2",
+    "name": "BernamaTV",
+    "id": "BERNAMA",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png"
+    "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "DewanRakyat",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8",
-    "timeshift": "2",
+    "name": "DewanRakyat",
+    "id": "DewanRakyat",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "DewanNegara",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8",
-    "timeshift": "2",
+    "name": "DewanNegara",
+    "id": "DewanNegara",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "CartoonNetwork",
-    "url": "https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8",
-    "timeshift": "2",
+    "name": "CartoonNetwork",
+    "id": "CartoonNetwork",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/CN.png",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Hot FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Hot FM ",
+    "id": "Hot Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/HotFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Best FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Best FM ",
+    "id": "Best Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/bestfm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Kool FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Kool FM ",
+    "id": "Kool Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Kool101.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "ERA ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8",
-    "timeshift": "2",
+    "name": "ERA ",
+    "id": "ERA",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Era.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Fly FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Fly FM ",
+    "id": "Fly Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Hitz FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Hitz FM ",
+    "id": "Hitz Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Johor FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Johor FM ",
+    "id": "Johor Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "NASFM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "NASFM ",
+    "id": "Nasional Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png"
+    "link": "https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Klasik FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Klasik FM ",
+    "id": "Radio Klasik",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Sinar FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Sinar FM ",
+    "id": "Sinar Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Suria FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Suria FM ",
+    "id": "Suria Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/Suria.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Ria FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Ria89.7 FM ",
+    "id": "Ria Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Asyik FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Asyik FM ",
+    "id": "Asyik Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
   {
-    "channel": "Eight FM ",
-    "url": "https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8",
-    "timeshift": "2",
+    "name": "Eight FM ",
+    "id": "8 Fm",
+    "logo": "https://mifntechnology.github.io/siaranMy/logo/8Fm.png",
+    "link": "https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8",
     "http_referrer": "https://mifntechnology.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   }
