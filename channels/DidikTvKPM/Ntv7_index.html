@@ -6,20 +6,23 @@
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.ui.debug.min.js">
-			</script>
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/controls.min.css">
-			<script src='//cdn.jsdelivr.net/hls.js/latest/hls.js'>
-			</script>
+			<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}
+			</style>
 		</head>
-		<body>
-			<center>
-				<div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true">
-					<video autoplay="" data-shaka-player="" id="video" style="width:100%;height:100%;" class="shaka-video" src="">
-					</video>
-				</div>
-				<script  src="./video.js">
-				</script>
-			</center>
-		</body>
+		<center>
+			<body>
+				<video
+					id="siaranMy"
+					class="video-js"
+					controls
+					preLoad="auto"
+					control poster="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png"
+					width="950"
+					height="700"
+					data-setup="{}"
+					>
+					<source src=" http://home.pijanify.my/tonton/?id=ntv7" type="application/vnd.apple.mpegURL">
+				</video>
+			</body>
+		</center>
 	</html>
