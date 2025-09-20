@@ -1,14 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:CODECS="avc1.64002a,mp4a.40.5",BANDWIDTH=3500000,RESOLUTION=1920x1080,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_1080p2628kbs/index.m3u8
-#EXT-X-STREAM-INF:CODECS="avc1.640029,mp4a.40.5",BANDWIDTH=1500000,RESOLUTION=1280x720,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_720p2628kbs/index.m3u8
-#EXT-X-STREAM-INF:CODECS="avc1.4d4029,mp4a.40.5",BANDWIDTH=960000,RESOLUTION=960x480,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_480p1128kbs/index.m3u8
-#EXT-X-STREAM-INF:CODECS="avc1.4d4020,mp4a.40.5",BANDWIDTH=800000,RESOLUTION=640x360,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_360p878kbs/index.m3u8
-#EXT-X-STREAM-INF:CODECS="avc1.428016,mp4a.40.5",BANDWIDTH=600000,RESOLUTION=480x240,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_240p528kbs/index.m3u8
-#EXT-X-STREAM-INF:CODECS="avc1.428015,mp4a.40.5",BANDWIDTH=360000,RESOLUTION=480x240,AUDIO="audio"
-https://live-tvs.tvsarawak.my/live/tvs_240p264kbs/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200328.m3u8
