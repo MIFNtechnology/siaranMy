@@ -1,46 +1,38 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8">
-    <title>DidikTv</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
-    <script src="https://cdn.jsdelivr.net/gh/mifntechnology/siaranMy@main/script/bradmax_player.js" type="text/javascript">
-    </script>
-</head>
-<body>
-    <div id="player" style="width: 950px;height: 700px;">
-    </div>
-    <script type="text/javascript">
-    var media = {
-      	dataProvider : {
-              	title : "DidikTv",
-              	duration :  734.097415,
-                  source : [{
-                  	url : "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401527141.m3u8",
-                      contentType : "application/vnd.apple.mpegurl",
-                      bitrate : 191999,
-                      width : 950,
-                      height : 700
-                  }],
-                 splashImages : [{
-                 	url : "https://cdn.jsdelivr.net/gh/mifntechnology/siaranMy@1.0/logo/DidikTv.png",
-                     width : 950,
-                     height : 700
-                 }]
-           }
-    };
-   var element = document.getElementById("player");
-          window.bigsoda.player.create(element, media);
-    </script>
-    <div style="margin-top:40px; font-family: sans-serif, arial;">
-    	<a hrref="https://cdn.jsdelivr.net/gh/mifntechnology/siaranMy@1.0/" target="_blank"></a>
-    </div>
-    
-    <noscript>Your browser does not support javascript!</noscript>
-    
-</body>
-</html>
-
-
+	<html>
+		<head>
+			<meta charset="UTF-8">
+				<title>DidikTv</title>
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<link rel="stylesheet" href="https://ejunds.github.io/mifn-iptv/style.css">
+			<script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js">
+			</script>
+			<script src="https://cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js">
+			</script>
+		</head>
+		<center>
+			<body>
+				<div id="vid" style="width: 100%; height: 100%;">
+				</div>
+				<script>
+					fetch("https://api.github.com/repos/MIFNtechnology/siaranMy/contents/channels/DidikTvKPM/index.m3u8?ref=main") // ganti dgn link npoint sebenar 
+					.then(res => res.json())
+                    .then(data => {
+                    const player = new Clappr.Player({
+                    source: data.download_url,
+                    mimeType: "application/x-mpegURL",
+                   autoPlay: true,
+                   width: "950",
+                   height: "700",
+                   plugins: { core: [LevelSelector] },
+                  parentId: "#vid"
+                  });
+                  })
+                 .catch(err => {
+                 alert("Gagal load stream: " + err);
+                 });
+				</script>
+			</body>
+		</center>
+    </html>
